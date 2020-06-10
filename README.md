@@ -1,4 +1,4 @@
-# VORTEX-handbook
+# VORTEX Lab Handbook
 This repository is meant to act as an internal lab reference for key policies and core procedures related to the VORTEX Lab. While most of the content is highly specific to our research group, the entire document has been made public to encourage transparency in our lab practices, as well as hopefully act as a template for other labs with similar goals.
 
 This is a 'living document' and we are continually improving the way we interact with GitHub to encourage open science practices. Any questions, comments, or concerns about the content on this repository can be directed to Jason Au at jason.au@uwaterloo.ca
