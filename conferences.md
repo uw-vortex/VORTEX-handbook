@@ -1,6 +1,6 @@
 # Conferences
 
-**NOTE: This list was complied pre-COVID19 and many of the dates and locations of the conferences are not out-of-date. This is a living documented and information will be updated when it becomes available**
+**NOTE: This list was compiled pre-COVID19 and many of the dates and locations of the conferences are out-of-date. This is a living document and information will be updated when it becomes available**
 
 ## Target Conferences
 

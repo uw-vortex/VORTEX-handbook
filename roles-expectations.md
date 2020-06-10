@@ -16,7 +16,7 @@ Any additional concerns can also be raised directly with university services, wi
 [UW Police Services](https://uwaterloo.ca/police/)
 [Safety Office](https://uwaterloo.ca/safety-office/occupational-health-safety/workplace-violence-and-harassment)
 
-## Principle Investigator
+## Principal Investigator
 Within the lab, my main roles include finding grant money to keep the lights on, mentoring trainees joining the lab, and acting as the main resource in the pipeline for experimental design and data interpretation. I have an casual open-door policy for trainees and always have my phone and email nearby for research or personal emergencies. While not a taskmaster, I will try to keep you on target for your personal research and career goals, and will try to *constructively* push you out of your comfort zone.
 
 In addition to the above, I promise to:
