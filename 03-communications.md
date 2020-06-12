@@ -5,7 +5,7 @@ The primary method of communication in the lab is UW email, mostly to ensure a r
 
 **A Note on Emails**: Email habits and working hours are flexible qualities. As a lab, we will decide our comfort level sending and receiving emails in and out of work hours, and evolve this policy over time. Personally, I recognize email stress can be difficult to manage, and will try not send students emails outside work hours to reduce your cognitive load.
 
-We also have a lab Whatsapp group for more casual communication! This includes more time-sensitive topics, or lab socials. We won't leave you out of the group chat!
+We also have a lab Whatsapp group for more casual communication! This includes more time-sensitive topics, or lab socials. We won't leave you out of the chat!
 
 **COVID-19 Updates**: Given the absence of in person communications, we will be using Microsoft Teams to keep a virtual lab space to discuss issues, research plans, and lab-related topics. Teams is supported by UW so it should integrate well with your UW accounts.
 

@@ -1,15 +1,15 @@
 # Lab and Student Funding
 
-## Lab Sources of Funding
+## Current Sources of Lab Funding
 * Start-up Funds (limited supply)
-* [IN PROGRESS] Canadian Foundation for Innovation (CFI) Equipment grants
-* [IN PROGRESS] NSERC Discovery grant
 
 ## Stipends
 Graduate stipends are set by the department at $20,000/year for MSc students and $23,538/year for PhD students. Supplementary funding from the lab may be available depending on available grants and current projects.
 
 ## External awards
-It is expected that all students apply for relevant Canadian graduate student awards (i.e., CIHR, NSERC, or OGS). It is important to note that success in acquiring external funding will not directly be added to your stipend - the funds largely go towards reducing departmental costs of supporting graduate students (e.g., you won't be eligible for a TA if you get external funding). However, there are advantages to securing funding: conference opportunities, large boost to your CV (money begets more money), and [selfishly], reduction in lab costs to afford more travel, students, and research opportunities for the team. **The ability to secure funding will not impact internal lab opportunities, available conference support, or result in preferential treatment.**
+It is expected that all students apply for relevant Canadian graduate student awards (i.e., CIHR, NSERC, or OGS). As they say, money begets money, and the success of lab trainees will only benefit other trainees (e.g., free of conference travel money, research funds, lead to larger scholarships). 
+<!-- It is important to note that success in acquiring external funding will not directly be added to your stipend - the funds largely go towards reducing departmental costs of supporting graduate students (e.g., you won't be eligible for a TA if you get external funding). However, there are advantages to securing funding: conference opportunities, large boost to your CV (money begets more money), and [selfishly], reduction in lab costs to afford more travel, students, and research opportunities for the team. -->
+**The ability to secure funding will not impact internal lab opportunities, available conference support, or result in preferential treatment.**
 
 ## Part-time jobs
 It is university policy that full-time graduate students should avoid working more than 10 hr/wk with external employees. More information on this policy can be found [here](https://uwaterloo.ca/graduate-studies-academic-calendar/general-information-and-regulations/full-time-students).

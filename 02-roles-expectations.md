@@ -4,16 +4,16 @@
 ### Code of Conduct
 There are many topics we could discuss, but the main focus in this lab is Respect. I expect you all to treat those in your working environment with the same respect and courtesies to promote a positive work environment. Communication should be kind, courteous, and timely. You should not abuse positions of power for personal gain (e.g., supervisory or TA roles), and any such conflicts should be identified early. Any disagreements or breaches of conduct should be identified to the PI, and if necessary, the Graduate Studies chair in Kinesiology (Andrew Laing: actlaing@uwaterloo.ca).
 
-The general student code of conduct for the University of Waterloo can be found  [here](https://uwaterloo.ca/english-language-institute/current-eli-students/efas-student-handbook/student-code-conduct).
+The general student code of conduct for the University of Waterloo can be found  [on the UW website](https://uwaterloo.ca/english-language-institute/current-eli-students/efas-student-handbook/student-code-conduct).
 
 ### Scientific Integrity
 Throughout your studies, you will no doubt feel the pressure to produce research, report positive findings, and share exciting results. While it is great to be motivated, remember that you should put integrity above all and do not falsify information, manipulate images, or adjust data to serve personal goals. All findings are important (e.g., finding no difference in vascular health between healthy and diseased populations is still positive!), and it is essential that we and our collaborators can trust data coming out of the lab.
 
 
 ### Central University Contact Information
-Any additional concerns can also be raised directly with university services, with more information at the following websites:
-[Equity Office](https://uwaterloo.ca/human-rights-equity-inclusion/)
-[UW Police Services](https://uwaterloo.ca/police/)
+Any additional concerns can also be raised directly with university services, with more information at the following websites:\
+[Equity Office](https://uwaterloo.ca/human-rights-equity-inclusion/)\
+[UW Police Services](https://uwaterloo.ca/police/)\
 [Safety Office](https://uwaterloo.ca/safety-office/occupational-health-safety/workplace-violence-and-harassment)
 
 ## Principal Investigator

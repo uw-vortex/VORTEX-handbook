@@ -8,49 +8,49 @@
     * Scope: General exercise physiology with a strong cardiovascular presence
     * Size: 1000
     * Next meeting: Fredricton, NB from Oct, 2021
-    * Abstract deadline: June 2020
+    * Abstract deadline: June 2021
     * Known funding: Society travel grants available
 * **Ontario Exercise Physiology (OEP)**
     * Scope: Local graduate student meeting with emphasis on presentation skills and networking
     * Size: 100
-    * Next meeting: Barrie, ON from Feb 21-23, 2020
-    * Abstract deadline: January 2020
+    * Next meeting: Barrie, ON MAYBE VIRTUAL
+    * Abstract deadline: January 2021
     * Known funding: None
 * **American College of Sports Medicine (ACSM)**
     * Scope: Very large exercise conference with international exposure
     * Size: 5000
-    * Next meeting: San Francisco, CA from May 26-30, 2020
+    * Next meeting: n/a
     * Abstract deadline: November
     * Known funding: Society travel grants available
 * **North American Artery (NAA)**
     * Scope: Focused artery physiology conference
     * Size: 100
-    * Next meeting: Iowa city, IA from May 22-23, 2020
-    * Abstract deadline: March 20
+    * Next meeting: n/a
+    * Abstract deadline: n/a
     * Known funding: None
 * **ARTERY**
     * Scope: Focused artery physiology conference
     * Size: 100
-    * Next meeting: Nancy, France from October 22-24, 2020
+    * Next meeting: VIRTUAL MEETING
     * Abstract deadline: June
     * Known funding: Society travel grants available
 * **Experimental Biology (EB)**
     * Scope: Very large physiology conference
     * Size: 5000
-    * Next meeting: San Diego, CA from April 4-7, 2020
+    * Next meeting: n/a
     * Abstract deadline: November
     * Known funding: Society travel grants available
 * **International Ultrasonics Symposium**
     * Scope: Large ultrasound engineering conference
     * Size: 5000
-    * Next meeting: Las Vegas, NV from Sept 7-11, 2020
+    * Next meeting: VIRTUAL MEETING
     * Abstract deadline: March
     * Known funding: Society travel grants available
 * **National Undergraduate Research Conference**
     * Scope: Undergraduate-only conference to present senior thesis studies
     * Size: 500
-    * Next meeting: Toronto, ON on March 27, 2020
-    * Abstract deadline: March 2, 2020
+    * Next meeting: Toronto, ON
+    * Abstract deadline: March 2021
     * Known funding: AHS Undergraduate Research Experiential Fund (see below in Money)
 
 ## Policy on abstract submissions
