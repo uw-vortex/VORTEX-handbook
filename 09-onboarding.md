@@ -17,13 +17,10 @@ All members of the VORTE lab need to take the following courses prior to working
 I would also like everyone to try and take the First Aid course (SO1038) when it becomes available. This full day course will give you Standard First Aid and CPR C with AED training, which is an incredible package for single-day training. It does not hurt to be prepared in the lab with participants coming in and performing exercise trials in a new environment.
 
 ## Free commercial software to download
-1. R and RStudio: For statistics and graphing
-  * NOTE: You will need both R (the actual program), as well as RStudio (the free, user interface that makes R pretty)
-  * For both downloads and a mini-tutorial, I recommend checking out [swirlstats](https://swirlstats.com/students.html)
+1. R and RStudio for statistics and graphing. You will need both R (the actual program), as well as RStudio (the free, user interface that makes R pretty). For both downloads and a mini-tutorial, I recommend checking out [swirlstats](https://swirlstats.com/students.html)
 2. [Mendeley desktop](https://www.mendeley.com/download-desktop-new/): For reference management during writing
 3. [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html) for statistical sample size calculations
-4. [Github Desktop](https://desktop.github.com/) + [Atom](https://atom.io/) text editor
-  * You will need to make a github account. This will be the primary method of sharing and updating published code in the lab.
+4. [Github Desktop](https://desktop.github.com/) + [Atom](https://atom.io/) text editor. To upload code you will need to make a github account. This will be the primary method of sharing and updating published code in the lab.
 5. [ImageJ](https://imagej.nih.gov/ij/download.html) for basic image analysis
 
 ## Suggested starting points to learn to code
