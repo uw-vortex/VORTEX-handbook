@@ -24,6 +24,7 @@ Another difficult situation commonly encountered by students is how to manage th
 * Prior to leaving the lab, a 'lingering publication plan' will be discussed in the exit interview;
 * If a paper draft is not adequately prepared up to 3 years after the end of data collection, a conversation will be initiated to re-assign the project to a different student lead to expedite the publication;
 * If a student willingly relinquishes responsibility to finish a paper, Jason will re-assign the project to a different student lead.\
+
 With respect to the above two points (re-assignment), the original student lead will always be included as a contributing author and will be expected to help approve the final version of the manuscript prior to publication.
 
 ## List of target journals
