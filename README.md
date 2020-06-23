@@ -19,4 +19,5 @@ This is a 'living document' and we are continually improving the way we interact
 8. Conference and Travel Funding
 9. Onboarding: Where to start?
 10. Offboarding: What next?
-11. Suggested Reading
+11. Lab Equipment
+12. Suggested Reading

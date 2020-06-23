@@ -54,6 +54,6 @@
     * Known funding: AHS Undergraduate Research Experiential Fund (see below in Money)
 
 ## Policy on abstract submissions
-Abstracts with partial datasets will not permitted. The main reason for this is that we don't want to get into a situation where the partial and final full datasets do not yield the same results. For this reason, I encourage students to consider conference deadlines well in advance to realistically plan what data might be available to submit. The exception to this is the Ontario Exercise Physiology (OEP) conference, which promotes study proposals and literature reviews for graduate and undergraduate presentation practice.
+Abstracts with partial datasets will not permitted, unless otherwise discussed. The main reason for this is that we don't want to get into a situation where the partial and final full datasets do not yield the same results. For this reason, I encourage students to consider conference deadlines **well in advance** to realistically plan what data might be available to submit. The exception to this is the Ontario Exercise Physiology (OEP) conference, which promotes study proposals and literature reviews for graduate and undergraduate presentation practice.
 
 I encourage all students to submit for *oral presentations* to enhance public speaking and communication skills. While poster presentations can be equally beneficial, I believe it is important for networking and name recognition to put yourselves up center stage to highlight your excellent work!

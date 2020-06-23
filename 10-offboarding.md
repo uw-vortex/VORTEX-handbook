@@ -10,3 +10,6 @@ After leaving regular hours in the lab, it can be very difficult to find time to
 
 ## Exit Interview
 Prior to leaving the lab, I will ask to have a final debrief meeting with you to review your experience working with the group. This includes reviewing the highs and the lows, the challenges and the successes, and how we can continue to support you after you leave the lab.
+
+## Party!
+Save the date! After every defense, please save the afternoon / evening / early morning for celebration time with the lab. We'll be sad to see you go, but we'll make sure to send you off in style.

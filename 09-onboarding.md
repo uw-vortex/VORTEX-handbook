@@ -7,18 +7,18 @@ You will need the following access cards and keys to work in the lab:
 * Keys: From Kin admin
 
 ## Health & Safety
-All members of the VORTE lab need to take the following courses prior to working in the lab. All courses (except TCPS2) can be accessed through the [UW Workday](https://uwaterloo.ca/human-resources/) website --> Learning --> Self-enrollment.
+All members of the VORTEX lab need to take the following courses prior to working in the lab. All courses (except TCPS2) can be accessed through the [UW Workday](https://uwaterloo.ca/human-resources/) website --> Learning --> Self-enrollment.
 * Employee Safety Orientation (SO1001)
 * Workplace Violence & Harassment Awareness (SO1081)
 * AccessAbility for Ontarians with Disabilites Act (AODA) Awareness
 * WHMIS 2015 Training (SO2017 - or later)
 * [TCPS2 Ethics](https://tcps2core.ca/) Certificate
 
-I would also like everyone to try and take the First Aid course (SO1038) when it becomes available. This full day course will give you Standard First Aid and CPR C with AED training, which is an incredible package for single-day training. It does not hurt to be prepared in the lab with participants coming in and performing exercise trials in a new environment.
+I would also like everyone to take the First Aid course (SO1038) when it becomes available. This full day course will give you Standard First Aid and CPR C with AED training, which is an incredible package for single-day training. It does not hurt to be prepared in the lab with participants coming in and performing exercise trials in a new environment.
 
 ## Free commercial software to download
 1. R and RStudio for statistics and graphing. You will need both R (the actual program), as well as RStudio (the free, user interface that makes R pretty). For both downloads and a mini-tutorial, I recommend checking out [swirlstats](https://swirlstats.com/students.html)
-2. [Mendeley desktop](https://www.mendeley.com/download-desktop-new/): For reference management during writing
+2. [Mendeley desktop](https://www.mendeley.com/download-desktop-new/): For reference management during writing. **NOTE** A recent update for Mac OSX Mojave is interfering with how the Word plug-in pulls citations from Mendeley. If you use a Mac, it may be best to explore other options.
 3. [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html) for statistical sample size calculations
 4. [Github Desktop](https://desktop.github.com/) + [Atom](https://atom.io/) text editor. To upload code you will need to make a github account. This will be the primary method of sharing and updating published code in the lab.
 5. [ImageJ](https://imagej.nih.gov/ij/download.html) for basic image analysis
@@ -42,7 +42,7 @@ Here are some resources to get started with R and RStudio
 * [R for Data Science](https://r4ds.had.co.nz/) is an excellent free online textbook made to teach you the basics in R.
 * [Tidyverse cheatsheets](https://rstudio.com/resources/cheatsheets/): We will be using the tidyverse set of packages for most data wrangling and plotting in the lab. These cheatsheets are excellent reminders for how to organize your data with neat visuals for how individual functions manipulate column and row data.
 * [swirlstats](https://swirlstats.com/) is a great free resource to learn some R basics. The program works 'inline', so you just follow the prompts in R itself and type along.
-* [TidyTuesday](https://github.com/rfordatascience/tidytuesday): As with MATLAB, the best way to learn is to start practicing. There is a weekly challenge on twitter to plot some socially interesting datasets (e.g., Australian fires, college tuition, animal crossing, marble races) using the ggplot method. I encourage you to engage with this community to try out your skills, read code from other participants, and generate some ideas for neat data presentation in the lab.
+* [TidyTuesday](https://github.com/rfordatascience/tidytuesday): As with MATLAB, the best way to learn is to start practicing. There is a weekly challenge on Twitter to plot some socially interesting datasets (e.g., Australian fires, college tuition, animal crossing, marble races) using the ggplot method. I encourage you to engage with this community to try out your skills, read code from other participants, and generate some ideas for neat data presentation in the lab.
 
 ## Supervisory Onboarding
 At the start of every studentship (undergrad and grad), students will meet one-on-one with Jason in the first month of term to establish some core values and expectations for mentorship throughout their time in the lab. In this meeting we will discuss:

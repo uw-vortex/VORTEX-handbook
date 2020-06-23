@@ -17,10 +17,15 @@ Any additional concerns can also be raised directly with university services, wi
 [Safety Office](https://uwaterloo.ca/safety-office/occupational-health-safety/workplace-violence-and-harassment)
 
 ## Principal Investigator
-Within the lab, my main roles include finding grant money to keep the lights on, mentoring trainees joining the lab, and acting as the main resource in the pipeline for experimental design and data interpretation. I have an casual open-door policy for trainees and always have my phone and email nearby for research or personal emergencies. While not a taskmaster, I will try to keep you on target for your personal research and career goals, and will try to *constructively* push you out of your comfort zone.
+Within the lab, my main roles include finding grant money to keep the lights on, mentoring trainees joining the lab, and acting as the main resource in the pipeline for experimental design and data interpretation. I have a casual open-door policy for trainees and always have my phone and email nearby for research or personal emergencies. While not a taskmaster, I will try to keep you on target for your personal research and career goals, and will try to *constructively* push you out of your comfort zone.
+
+Jason's working policies:
+* I will acknowledge your emails with 24hrs on working days;
+* I request at least 2 weeks notice for writing / reviews requests from students. This includes paper drafts, thesis edits, reference letters, and scholarship applications;
+
 
 In addition to the above, I promise to:
-* Support you in your research life, student life, and personal life (if you ask);
+* Support you in your research life and student life (if you ask);
 * Be available for meetings on a regular basis;
 * Be patient during the learning process for many lab techniques that you may never have heard of prior to joining the lab (there will be lots!);
 * Respond within a reasonable time (<24 hours) to your emails and messages, even if just an acknowledgement of receipt;
@@ -30,7 +35,6 @@ In addition to the above, I promise to:
 
 FROM THE STUDENTS: We expect Jason to:
 * TBD when we have students join the lab.
-
 
 
 ## Graduate Students
@@ -54,7 +58,7 @@ Within the lab, the main expectation for undergraduate students is to engage wit
 
 In addition to the above, undergraduate students are expected to:
 * Focus on their undergraduate courses. Protect your study time and do not overcommit to lab tasks if you don't have the time;
-* Try to carve out time to work in the lab. This doesn't have to be related to lab tasks; studying for midterms or working on assignments in the vicinity of active research can help you pick up small tips or meaningful interactions with senior students in the lab;
+* Try to carve out time to work in the lab environment. This doesn't mean you have to be working on lab tasks; studying for midterms or working on assignments in the vicinity of active research can help you pick up small tips or meaningful interactions with senior students in the lab;
 * Develop core research skills related to experimental design, basic data collection, as well as reading, writing, and presentation skills.
 
 FROM THE STUDENTS: We expect our undergraduate student peers to:

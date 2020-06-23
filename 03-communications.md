@@ -1,19 +1,19 @@
 # Lab communications
 
 ## Communication
-The primary method of communication in the lab is UW email, mostly to ensure a record of work-relevant discussions within the labspace. While I do not expect you to have constant access to email, it is expected that you make a reasonable attempt to respond to emails within a timely manner (let's say <24 hours for intra-lab communications as a common courtesy), even if it is a quick acknowledgement. For example, if you send me an email asking for edits on a paper, I probably won't get that back to you in an hour, but I will acknowledge the task and give you an idea on a timeline.
+**Emails**: The primary method of communication in the lab is UW email, mostly to ensure a record of work-relevant discussions within the labspace. While I do not expect you to have constant access to email, it is expected that you make a reasonable attempt to respond to emails within a timely manner (let's say <24 hours for intra-lab communications as a common courtesy), even if it is a quick acknowledgement. For example, if you send me an email asking for edits on a paper, I probably won't get that back to you in an hour, but I will acknowledge the task and give you an idea on a timeline.
 
-**A Note on Emails**: Email habits and working hours are flexible qualities. As a lab, we will decide our comfort level sending and receiving emails in and out of work hours, and evolve this policy over time. Personally, I recognize email stress can be difficult to manage, and will try not send students emails outside work hours to reduce your cognitive load.
+*A Note on Emails*: Email habits and working hours are highly personal. As a lab, we will decide our comfort level sending and receiving emails in and out of work hours, and evolve this policy over time. Personally, I find email stress be difficult (e.g., thinking about work in off hours), and will try not send students emails outside work hours to reduce your cognitive load.
 
-We also have a lab Whatsapp group for more casual communication! This includes more time-sensitive topics, or lab socials. We won't leave you out of the chat!
+**Whatsapp**: We also have a lab Whatsapp group for more casual communication. This includes more time-sensitive topics, or lab socials. We won't leave you out of the chat!
 
-**COVID-19 Updates**: Given the absence of in person communications, we will be using Microsoft Teams to keep a virtual lab space to discuss issues, research plans, and lab-related topics. Teams is supported by UW so it should integrate well with your UW accounts.
+**COVID-19 Updates: Microsoft Teams**: Given the absence of in person communications, we will be using Microsoft Teams to keep a virtual lab space to discuss issues, research plans, and lab-related topics. Teams is supported by UW so it should integrate well with your UW accounts.
 
 Finally, we have an emergency contact list posted in the lab with everyone's personal contacts - stay in touch!
 
 ## Meetings
 
-> This could have been an e-mail.
+> "This could have been an e-mail" - Said every grad student ever.
 
 
 ### VORTEX Lab Meetings
