@@ -7,13 +7,13 @@
 * **Canadian Society for Exercise Physiology (CSEP)**
     * Scope: General exercise physiology with a strong cardiovascular presence
     * Size: 1000
-    * Next meeting: Fredricton, NB from Oct, 2021
+    * Next meeting: VIRTUAL Oct, 2021
     * Abstract deadline: June 2021
     * Known funding: Society travel grants available
 * **Ontario Exercise Physiology (OEP)**
     * Scope: Local graduate student meeting with emphasis on presentation skills and networking
     * Size: 100
-    * Next meeting: Barrie, ON MAYBE VIRTUAL
+    * Next meeting: 2021 CANCELLED
     * Abstract deadline: January 2021
     * Known funding: None
 * **American College of Sports Medicine (ACSM)**
