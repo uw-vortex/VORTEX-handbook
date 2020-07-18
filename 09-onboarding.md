@@ -5,6 +5,7 @@ You will need the following access cards and keys to work in the lab:
 * [WatCard](https://uwaterloo.ca/watcard/) (Student Card)
 * FOB for hallways: From Kin admin
 * Keys: From Kin admin
+* UW Virtual Private Network (VPN): UW Instructions for [Macs](https://uwaterloo.ca/applied-health-sciences-computing/connecting-campus-vpn-mac) and [PCs](https://wiki.uwaterloo.ca/display/ISTKB/Install+the+VPN+client+on+Windows+OS+-+applies+to+IE%2C+Edge%2C+Firefox%2C+and+Chrome)
 
 ## Health & Safety
 All members of the VORTEX lab need to take the following courses prior to working in the lab. All courses (except TCPS2) can be accessed through the [UW Workday](https://uwaterloo.ca/human-resources/) website --> Learning --> Self-enrollment.
@@ -17,7 +18,7 @@ All members of the VORTEX lab need to take the following courses prior to workin
 I would also like everyone to take the First Aid course (SO1038) when it becomes available. This full day course will give you Standard First Aid and CPR C with AED training, which is an incredible package for single-day training. It does not hurt to be prepared in the lab with participants coming in and performing exercise trials in a new environment.
 
 ## Network Drive (V Drive)
-All lab members have access to the VORTEX Research Drive hosted on the UW servers. Each trainee will have their own research folder to house research documents and data to allow remote work, when necessary. To set up the network drive, follow these [instructions on the AHS website](https://uwaterloo.ca/applied-health-sciences-computing/how-map-drive). When setting up the drive, please assign it the letter V: so the name is consistent for lab discussions. Our drive location is:
+All lab members have access to the VORTEX Research Drive hosted on the UW servers. Each trainee will have their own research folder to house research documents and data to allow remote work, when necessary. To set up the network drive, follow these [instructions on the AHS website](https://uwaterloo.ca/applied-health-sciences-computing/how-map-drive). Remember, you must first be logged into the UW VPN if you are off campus. When setting up the drive, please assign it the letter V: so the name is consistent for lab discussions. Our drive location is:
 
 \\ahsfile\vortexlab$
 
@@ -25,7 +26,7 @@ Jason will submit requests for new trainees to get set up with the drive, which 
 
 ## Free commercial software to download
 1. R and RStudio for statistics and graphing. You will need both R (the actual program), as well as RStudio (the free, user interface that makes R pretty). For both downloads and a mini-tutorial, I recommend checking out [swirlstats](https://swirlstats.com/students.html)
-2. [Mendeley desktop](https://www.mendeley.com/download-desktop-new/): For reference management during writing. **NOTE** A recent update for Mac OSX Mojave is interfering with how the Word plug-in pulls citations from Mendeley. If you use a Mac, it may be best to explore other options.
+2. [Mendeley desktop](https://www.mendeley.com/download-desktop-new/): For reference management during writing. **NOTE**: A recent update for Mac OSX Mojave is interfering with how the Word plug-in pulls citations from Mendeley. If you use a Mac, it may be best to explore other options.
 3. [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html) for statistical sample size calculations
 4. [Github Desktop](https://desktop.github.com/) + [Atom](https://atom.io/) text editor. To upload code you will need to make a github account. This will be the primary method of sharing and updating published code in the lab.
 5. [ImageJ](https://imagej.nih.gov/ij/download.html) for basic image analysis
