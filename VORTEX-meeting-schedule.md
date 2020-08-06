@@ -1,8 +1,8 @@
 # Fall 2020 VORTEX Lab Meeting schedule
 
-Full group lab meetings occur weekly. This Fall 2020, we will have meetings **Tuesday @ 10:00am** with the following scheduled topics:
+Full group lab meetings occur weekly. TBD!
 
-
+<!--
 | Week | Date | Topic | Lead |
 | ---- | ---- | ---- | ---- |
 | 1 | Sept | Introductions & Lab Handbook | Jason |
@@ -21,3 +21,4 @@ Full group lab meetings occur weekly. This Fall 2020, we will have meetings **Tu
 | 14 | Dec | Term review | Jason |
 | 15 | Dec | SOCIAL | Jason |
 | 16 | Dec | OFF | OFF |
+-->

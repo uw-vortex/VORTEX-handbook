@@ -3,7 +3,8 @@
 ## Communication
 **Emails**: The primary method of communication in the lab is UW email, mostly to ensure a record of work-relevant discussions within the labspace. While I do not expect you to have constant access to email, it is expected that you make a reasonable attempt to respond to emails within a timely manner (let's say <24 hours for intra-lab communications as a common courtesy), even if it is a quick acknowledgement. For example, if you send me an email asking for edits on a paper, I probably won't get that back to you in an hour, but I will acknowledge the task and give you an idea on a timeline.
 
-*A Note on Emails*: Email habits and working hours are highly personal. As a lab, we will decide our comfort level sending and receiving emails in and out of work hours, and evolve this policy over time. Personally, I find email stress be difficult (e.g., thinking about work in off hours), and will try not send students emails outside work hours to reduce your cognitive load.
+*A Note on Emails*: Email habits and working hours are highly personal. Personally, I find email stress to be very real and very difficult (e.g., thinking about work in off hours), and will try not send students emails outside work hours to reduce your cognitive load. I include the following post-script to my outgoing emails to try and ease the collective cognitive load:
+"My working day may not be your working day. Please do not feel obliged to reply to this email outside your normal working hours."
 
 **Whatsapp**: We also have a lab Whatsapp group for more casual communication. This includes more time-sensitive topics, or lab socials. We won't leave you out of the chat!
 

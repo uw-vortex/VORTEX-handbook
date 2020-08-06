@@ -10,12 +10,6 @@ The general student code of conduct for the University of Waterloo can be found 
 Throughout your studies, you will no doubt feel the pressure to produce research, report positive findings, and share exciting results. While it is great to be motivated, remember that you should put integrity above all and do not falsify information, manipulate images, or adjust data to serve personal goals. All findings are important (e.g., finding no difference in vascular health between healthy and diseased populations is still positive!), and it is essential that we and our collaborators can trust data coming out of the lab.
 
 
-### Central University Contact Information
-Any additional concerns can also be raised directly with university services, with more information at the following websites:\
-[Equity Office](https://uwaterloo.ca/human-rights-equity-inclusion/)\
-[UW Police Services](https://uwaterloo.ca/police/)\
-[Safety Office](https://uwaterloo.ca/safety-office/occupational-health-safety/workplace-violence-and-harassment)
-
 ## Principal Investigator
 Within the lab, my main roles include finding grant money to keep the lights on, mentoring trainees joining the lab, and acting as the main resource in the pipeline for experimental design and data interpretation. I have a casual open-door policy for trainees and always have my phone and email nearby for research or personal emergencies. While not a taskmaster, I will try to keep you on target for your personal research and career goals, and will try to *constructively* push you out of your comfort zone.
 
@@ -41,7 +35,7 @@ FROM THE STUDENTS: We expect Jason to:
 Within the lab, the main role for graduate students is, first and foremost, to be students. You are not employees and I do not expect you to work as such. Graduate students are expected to work through your courses, set realistic goals unique to your objectives, and work towards those goals through whatever means you learn best. Senior graduate students are expected to offer support to junior students, and in turn, junior students are expected to reach out for help from senior students to share knowledge within the team.
 
 In addition to the above, graduate students are expected to:
-* Work towards your research objectives, developed in conjunction with Jason and your supervisory committee. As these goals change term to term (even month to month) students are also expected to;
+* Work towards your research objectives, developed in conjunction with Jason and your supervisory committee;
 * Plan regular meetings with supervisory team to meet your research needs;
 * Apply for external scholarships;
 * Mentor junior lab members;
