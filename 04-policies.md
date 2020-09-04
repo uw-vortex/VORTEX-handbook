@@ -16,7 +16,7 @@ Enjoyable, high-quality research can only be conducted when you feel safe, secur
 * Be mindful of talking over others when discussing in groups, and be willing to hear out the ideas of others.
 
 
-Jason will discuss the above core principles with lab members who violate these rules, no matter their level of study, or how specialized or needed their skill set. If inappropriate behaviour persists after this initial discussion, formal processes, in line with UW's work practice policies, will commence. To report an issue, please contact Jason Au; all communication will be treated as confidential. If you do not feel comfortable contacting Jason directly, please feel free to contact either Andrew Laing (Associate Chair of Graduate Studies), or Russ Tupling (Department Chair).
+Jason will discuss the above core principles with lab members who violate these rules, no matter their level of study, or how specialized or needed their skill set. If inappropriate behaviour persists after this initial discussion, formal processes, in line with UW's work practice policies, will commence. To report a breach of code of conduct, please contact Jason Au; all communication will be treated as confidential. If you do not feel comfortable contacting Jason directly, please feel free to contact either Andrew Laing (Associate Chair of Graduate Studies), or Russ Tupling (Department Chair).
 
 The above policies were heavily borrowed from the BRG lab run by Christopher Jackson under a CC-BY 4.0 license. We encourage others to also critical evaluate these policies and adapt them for their own purposes.
 
@@ -48,3 +48,10 @@ You can pick your friends, but you can't pick your labmates! Part of the challen
 * **Show up to things**;
 * **Be present**;
 * **Talk about authorship up-front**
+* **RSVP right away**
+* **Ask before you borrow equipment**
+* **Be cognizant of shared lab time and resources**
+* **Keep notes about method successes and failures that may help others**
+* **Don't hold onto small offenses**
+* **Speak up about problems you encounter - there are likely others who will be affected by them**
+* **Follow through on action items with a timeline - don't leave your labmates hanging**

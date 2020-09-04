@@ -9,6 +9,8 @@
 
 **ProbeFix Dynamic**: This custom probe holder from Usono is designed to work with a variety of ultrasound probes during exercise. We are excited to start working with this equipment and will be happy to share the accuracy and feasibility of the device in the next few years.
 
+## Pulse Wave Analysis
+**NIHem Workstation**: This workstation from Cardiovascular Engineering Inc. is dedicated to comprehensive pulse wave acquisition and analysis. The unit includes two fingertip tonometers, central data acquisition unit, brachial blood pressure cuff with integrated Korotkoff microphone, as well as an analysis Tablet on a portable stand. This unit is capable of measuring carotid-femoral pulse wave velocity (cfPWV), pressure wave decomposition (Pf and Pb), and characteristic impedance (Zc).
 
 ## Software
 **SpecTat**: We use an in-house vascular speckle-tracking program for ultrasound kinematic analyses, and was developed in MATLAB by Jimmy Tat, MD, in 2013. In brief, this program identifies up to two rectangular regions of interest and tracks pixel positions over time to measure 2D wall displacement (axial and radial directions). Speckle-tracking is one of the only methods to measure carotid artery longitudinal wall motion and is a cornerstone of our post-processing tools in the lab.-->

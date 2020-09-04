@@ -58,3 +58,12 @@ To give a **very** arbitrary idea of journal standing, I'm going to list the mos
 * IEEE Transactions on Ultrasonics, Ferroelectronics and Frequency Control (2.2)
 * Ultrasound in Medicine and Biology (2.2)
 * Clinical Physiology and Functional Imaging (2.2)
+
+## How to recognize Predatory Journals
+After publishing a few articles, trainees will start to receive 'predatory journal' requests, asking them to consider submitting to their journal for a 'modest' publication fee with rapid turn-around. There is no explicit definition of a predatory journal, but in general, these are periodicals that exist solely to make money by having authors pay huge 'article processing charges' (APCs) with little to no scientific review or oversight, essentially promising an exchange of publication-for-money. Now, it is extremely difficult to identify these journals given that their business strategy is remarkably similar to actual trusted journals who still charge large APCs, but with legitimate peer review. An attempt was made about a decade ago (i.e., see Wikipedia articles about [Beall's List](https://en.wikipedia.org/wiki/Beall%27s_List)), but due to litigation by predatory companies, it is not possible to just look up these journals in a central database. Instead, it is up to **you** to identify less-than-reputable journals by doing your due diligence. In general, you can look for:
+* Spelling mistakes in the invitation email, website, or published articles from the journal.
+* References your previous papers in an invitation email - this usually indicates your data was trawled through websites to link your name and recent article titles.
+* Is there an easily accessible editorial board for the journal?
+* Are there excessive fees for publication?
+* Are there unnecessary assurances that the journal is indexed in search engines?
+* **When in doubt, ask Jason!**

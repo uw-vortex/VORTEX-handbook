@@ -31,3 +31,18 @@ In addition to weekly meetings and casual conversations, each student will be as
 * to ensure an open line of communication between the student and the PI.
 The structure of these meetings will vary between students, and will be shaped by both the student and PI over time.
 **The first mentorship meeting is more structured and will follow the steps outlined in the Onboarding document**
+
+### Writing drafts with Jason
+Jason is more than willing to help review your term papers, literature reviews, proposals, manuscript drafts, and thesis in advance of your submission dates. Over the course of your research career, you will no doubt be on the receiving end of many types of editors, each with their own style of feedback. To give you an idea of what to expect from Jason, the below points try to capture his review style and expectations.
+* Jason will use the track-changes feature in word to mark his edits. To help him remember what was discussed in earlier versions, you don't need to clear all mark-up in subsequent versions - it will be easier to see what sections have been addressed in depth.
+* Jason will use comments to identify unclear areas (sometimes excessively), generally including specific examples or suggested revisions to clarity sentences.
+* Don't be alarmed if the document comes back heavily marked with grammar suggestions, sentence re-writes, and many small comments, particularly in your first few papers - this is just Jason showing he cares about your work and wants you to 'learn-by-revision' for his personal style of writing.
+
+In addition, Jason has some particular writing quirks that he asks you to adopt:
+* In general, Jason prefers Arial 12pt font, justified 1" margins, no tabs in paragraphs, and single spaces after periods - you are welcome to challenge him that other formats are superior, but good luck :)
+* When writing papers, Jason will ask you to aim for a 1-2 page introduction, 4-6 page discussion, but whatever length methods and results necessary to communicate the findings.
+* Some general writing tips:
+  * Try to avoid starting sentences with leading clauses (e.g., However,... Given the reduced heart rate,... Rather than attribute the findings to X,...);
+  *  Break up lengthy written sections with subheadings;
+  * Try to avoid non-specific adjectives (e.g., there was a large effect of exercise vs exercise induced a 10% increase in fitness)
+  * First person writing is okay (i.e., we observed...)
