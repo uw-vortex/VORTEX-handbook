@@ -32,7 +32,7 @@ In addition to weekly meetings and casual conversations, each student will be as
 The structure of these meetings will vary between students, and will be shaped by both the student and PI over time.
 **The first mentorship meeting is more structured and will follow the steps outlined in the Onboarding document**
 
-### Writing drafts with Jason
+## Writing drafts with Jason
 Jason is more than willing to help review your term papers, literature reviews, proposals, manuscript drafts, and thesis in advance of your submission dates. Over the course of your research career, you will no doubt be on the receiving end of many types of editors, each with their own style of feedback. To give you an idea of what to expect from Jason, the below points try to capture his review style and expectations.
 * Jason will use the track-changes feature in word to mark his edits. To help him remember what was discussed in earlier versions, you don't need to clear all mark-up in subsequent versions - it will be easier to see what sections have been addressed in depth.
 * Jason will use comments to identify unclear areas (sometimes excessively), generally including specific examples or suggested revisions to clarity sentences.

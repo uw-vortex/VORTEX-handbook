@@ -1,24 +1,20 @@
 # Fall 2020 VORTEX Lab Meeting schedule
 
-Full group lab meetings occur weekly. TBD!
+Full group lab meetings occur weekly, Tuesday's from 12:30 to 1:30pm on MS Teams.
 
-<!--
 | Week | Date | Topic | Lead |
 | ---- | ---- | ---- | ---- |
-| 1 | Sept | Introductions & Lab Handbook | Jason |
-| 2 | Sept | Data presentation: TBD | TBD |
-| 3 | Sept | Scholarship tutorial | Jason |
-| 4 | Sept | Journal Club: CALM | TBD |
-| 5 | Oct | Coding: Github & Rstudio wrangling | Jason |
-| 6 | Oct | Graph basics: ggplot2 essentials | Jason |
-| 7 | Oct | Activity: TidyTuesday | Jason |
-| 8 | Oct | Journal Club: Vector flow | TBD |
-| 9 | Nov | Coding: MATLAB basics | Jason |
-| 10 | Nov | Coding: MATLAB advanced | Jason |
-| 11 | Nov | Writing basics | Jason |
-| 12 | Nov | Journal Club: TBD | TBD |
-| 13 | Dec | Data presentation: TBD | TBD |
-| 14 | Dec | Term review | Jason |
-| 15 | Dec | SOCIAL | Jason |
-| 16 | Dec | OFF | OFF |
--->
+| 1 | Sept 15 | Introductions, Lab Handbook Intro | Jason |
+| 2 | Sept 22 | Github & Handbook revisions | Undergrads |
+| 3 | Sept 29 | Rstudio data and plotting | Jason |
+| 4 | Oct 6 | TidyTuesday activity | Jason |
+| 5 | Oct 13 | READING WEEK: No meeting! | ---- |
+| 6 | Oct 20 | Journal Club / Questions About Science | Jason |
+| 7 | Oct 27 | CSEP Recap | Jason |
+| 8 | Nov 3 | TBD | TBD |
+| 9 | Nov 10 | Presentation club | All |
+| 10 | Nov 17 | Journal Club | TBD |
+| 11 | Nov 24 | Volunteer data presentations | Carol, Josh, Taylor |
+| 12 | Dec 1 | TBD | TBD |
+| 13 | Dec 8 | 472 literature presentations | Nidhi & Ann |
+| 14 | Dec 15 | Term review and SOCIAL | Jason |
