@@ -28,8 +28,12 @@ In addition to the above, I promise to:
 * Help you navigate your career path after leaving the lab. This can include helping you network with others at conferences, or helping plan studies directly related to career prospects.
 
 FROM THE STUDENTS: We expect Jason to:
-* TBD when we have students join the lab.
-
+* Challenge students to learn new skills relevant to working in the lab;
+* Be available to students during office hours and at times arranged by mutual agreement and communicate when not able to meet be there;
+* Assess student performance as objectively as possible;
+* Share his excitement about his work and developments in the field with his students;
+* Set clear work deadlines (ex. micro deadlines, soft and hard deadlines) and work with students to set them; and,
+* Provide constructive criticism and feedback of student's work.
 
 ## Graduate Students
 Within the lab, the main role for graduate students is, first and foremost, to be students. You are not employees and I do not expect you to work as such. Graduate students are expected to work through your courses, set realistic goals unique to your objectives, and work towards those goals through whatever means you learn best. Senior graduate students are expected to offer support to junior students, and in turn, junior students are expected to reach out for help from senior students to share knowledge within the team.
