@@ -5,7 +5,7 @@ Full group lab meetings occur weekly, Tuesday's from 12:30 to 1:30pm on MS Teams
 | Week | Date | Topic | Lead |
 | ---- | ---- | ---- | ---- |
 | 1 | Sept 15 | Introductions, Lab Handbook Intro | Jason |
-| 2 | Sept 22 | Github & Handbook revisions | Undergrads |
+| 2 | Sept 22 | Handbook revisions & Grants | Undergrads |
 | 3 | Sept 29 | Rstudio data and plotting | Jason |
 | 4 | Oct 6 | TidyTuesday activity | Jason |
 | 5 | Oct 13 | READING WEEK: No meeting! | ---- |
