@@ -5,11 +5,11 @@ As part of our decision to use R for open science practices, we will be making a
 
 ## General theme
 For publication quality graphs, we will use these theme settings based on the theme_classic() preset. This allows:
-* X- and Y-axis solid black lines
-* Larger text font and spaced out axis titles
-* Larger margins around the plot
-* Bottom oriented legend (although this will be moved within the plot borders, depending on the data)
-* Absence of gridlines, plot borders, titles, or captions
+* X- and Y-axis solid black ;
+* Larger text font and spaced out axis titles;
+* Larger margins around the plot;
+* Bottom oriented legend (although this will be moved within the plot borders, depending on the data); and,
+* Absence of gridlines, plot borders, titles, or captions.
 
 
 ```r

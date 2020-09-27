@@ -28,12 +28,16 @@ In addition to the above, I promise to:
 * Help you navigate your career path after leaving the lab. This can include helping you network with others at conferences, or helping plan studies directly related to career prospects.
 
 FROM THE STUDENTS: We expect Jason to:
+* Provide an opportunity for us to develop as an independent researcher and to foster an atmosphere of learning;
+* To take into account student’s goals and to assist students in working towards them (within reason);
 * Challenge students to learn new skills relevant to working in the lab;
+* Provide constructive criticism and feedback of student's work;
 * Be available to students during office hours and at times arranged by mutual agreement and communicate when not able to meet be there;
 * Assess student performance as objectively as possible;
+* Promote an environment that fosters collaborative work, and reduces competition;
 * Share his excitement about his work and developments in the field with his students;
 * Set clear work deadlines (ex. micro deadlines, soft and hard deadlines) and work with students to set them; and,
-* Provide constructive criticism and feedback of student's work.
+
 
 ## Graduate Students
 Within the lab, the main role for graduate students is, first and foremost, to be students. You are not employees and I do not expect you to work as such. Graduate students are expected to work through your courses, set realistic goals unique to your objectives, and work towards those goals through whatever means you learn best. Senior graduate students are expected to offer support to junior students, and in turn, junior students are expected to reach out for help from senior students to share knowledge within the team.
@@ -47,9 +51,29 @@ In addition to the above, graduate students are expected to:
 * Keep track of departmental and external deadlines, and to remind Jason when he forgets; and,
 * Maintain a work-life balance that suits your needs! Determine what works best for you and take time to try out new strategies. Grad school is the perfect time to find out if you are a morning person, night owl, weekend warrior, or biphasic sleeper.
 
-
 FROM THE STUDENTS: We expect our graduate student peers to:
-* TBD when we have students join the lab.
+* Take the time to explain your projects to junior students and answer questions regarding lab projects and grad school;
+* Give students the opportunity to shadow/ follow your work as it progresses; and,
+* Share your passion for science!
+
+
+## Undergraduate courseware students (KIN 391/ KIN 472)
+Within the lab, the main role of courseware students is first and foremost to be students. I understand that you may also be taking other classes, as well as juggling other responsibilities, so you will not be asked to focus all your time and energy on this one course. Remember to take take care of your mental health and communicate when you have "hell week" coming up. The benefit of taking a KIN 391 / KIN 472 is the flexibility it offers in terms of scheduling work time and deadlines. Regardless, you are still expect  to attend lab meetings and meet deadlines mutually agreed upon between you and Jason, and, communicate when unable to do so. Please note, you are NOT expected to end the term with a paper publication or having designed and conducted a experimental research study.
+
+As courseware students, you are expected to do the following:
+* Conduct a literature review, collect data, perform data analysis, or any other project mutually agreed upon before the start of the term, which contributes to the goals and objectives of the lab;
+* Keep detailed notes on progress of research for the duration of the course so that this can be passed down to subsequent researchers;
+* Present research findings at the end of the term during a team meeting;
+* Since this class is not in your quest schedule, I expect you to contribute at least 3hrs per week of “class time” as expected of all 0.5 credit courses;
+* Plan and schedule regular meetings with Jason to check in; and,
+* Participate actively during team meetings.
+
+FROM THE STUDENTS: We expect our courseware student peers to:
+* Take initiative - you have to be self-motivated to secure your interests and don’t be passive about your objectives;
+* Contribute to positive/collaborative environment;
+* Share ideas/questions as well as interesting findings; and,
+* Follow through with commitments
+
 
 ## Undergraduate Volunteers
 Within the lab, the main expectation for undergraduate students is to engage with the lab. We all come from diverse backgrounds and I do not expect you to come in flying with a Nobel prize study. Be attentive, ask questions, and try something new!
@@ -59,11 +83,15 @@ In addition to the above, undergraduate students are expected to:
 * Try to carve out time to work in the lab environment. This doesn't mean you have to be working on lab tasks; studying for midterms or working on assignments in the vicinity of active research can help you pick up small tips or meaningful interactions with senior students in the lab;
 * Develop core research skills related to experimental design, basic data collection, as well as reading, writing, and presentation skills.
 
-FROM THE STUDENTS: We expect our undergraduate student peers to:
-* TBD when we have students join the lab.
+FROM THE STUDENTS: We expect our undergraduate volunteer peers to:
+* Contribute to the collaborative environment, share ideas, suggestions, and questions;
+* Provide constructive feedback with respect to lab tasks, academic and student life;
+* Participate actively in journal club, coding tutorials or other lab related events; and,
+* Be mindful of each other’s commitments and provide support or guidance where necessary.
+
 
 ## Research Staff (RA, Co-op, etc.)
 Within the lab, research staff should have a more structured work week and are formally working as paid university employees. While hours of work will depend on the contract, it is best practice to be present in the lab during conventional working hours (between 8am-6pm, depending on hours). While specific roles will differ, research staff are expected to work towards their assigned projects as well as support other students in the lab with your particular expertise.
 
 FROM THE STUDENTS: We expect our research staff to:
-* TBD when we have students join the lab.
+* TBD when we have research staff join the lab.

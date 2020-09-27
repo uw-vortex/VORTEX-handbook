@@ -18,7 +18,7 @@ Finally, we have an emergency contact list posted in the lab with everyone's per
 
 
 ### VORTEX Lab Meetings
-Full group lab meetings occur weekly. This Fall 2020, we will have meetings **Tuesday @ 10:00am**. The general format of lab meetings are:
+Full group lab meetings occur weekly. This Fall 2020, we will have meetings **Tuesday @ 11:00am**. The general format of lab meetings are:
 * general announcements;
 * research issues to be considered by the group;
 * individual updates; and,
@@ -39,7 +39,7 @@ Jason is more than willing to help review your term papers, literature reviews, 
 * Don't be alarmed if the document comes back heavily marked with grammar suggestions, sentence re-writes, and many small comments, particularly in your first few papers - this is just Jason showing he cares about your work and wants you to 'learn-by-revision' for his personal style of writing.
 
 In addition, Jason has some particular writing quirks that he asks you to adopt:
-* In general, Jason prefers Arial 12pt font, justified 1" margins, no tabs in paragraphs, and single spaces after periods - you are welcome to challenge him that other formats are superior, but good luck :)
+* In general, Jason prefers Arial 12pt font, justified 1" margins, single spaced, 6 point space gap between paragraphs with no tabs, and single spaces after periods - you are welcome to challenge him that other formats are superior, but good luck :)
 * When writing papers, Jason will ask you to aim for a 1-2 page introduction, 4-6 page discussion, but whatever length methods and results necessary to communicate the findings.
 * Some general writing tips:
   * Try to avoid starting sentences with leading clauses (e.g., However,... Given the reduced heart rate,... Rather than attribute the findings to X,...);
