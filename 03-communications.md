@@ -18,7 +18,7 @@ Finally, we have an emergency contact list posted in the lab with everyone's per
 
 
 ### VORTEX Lab Meetings
-Full group lab meetings occur weekly. This Fall 2020, we will have meetings **Tuesday @ 11:00am**. The general format of lab meetings are:
+Full group lab meetings occur weekly. This Fall 2020, we will have meetings **Tuesday @ 12:30pm**. The general format of lab meetings are:
 * general announcements;
 * research issues to be considered by the group;
 * individual updates; and,
