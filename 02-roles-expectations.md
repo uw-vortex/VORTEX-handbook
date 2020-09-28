@@ -35,8 +35,8 @@ FROM THE STUDENTS: We expect Jason to:
 * Be available to students during office hours and at times arranged by mutual agreement and communicate when not able to meet be there;
 * Assess student performance as objectively as possible;
 * Promote an environment that fosters collaborative work, and reduces competition;
-* Share his excitement about his work and developments in the field with his students;
-* Set clear work deadlines (ex. micro deadlines, soft and hard deadlines) and work with students to set them; and,
+* Share his excitement about his work and developments in the field with his students; and
+* Set clear work deadlines (ex. micro deadlines, soft and hard deadlines) and work with students to set them.
 
 
 ## Graduate Students
@@ -53,18 +53,17 @@ In addition to the above, graduate students are expected to:
 
 FROM THE STUDENTS: We expect our graduate student peers to:
 * Take the time to explain your projects to junior students and answer questions regarding lab projects and grad school;
-* Give students the opportunity to shadow/ follow your work as it progresses; and,
+* Give students the opportunity to shadow/follow your work as it progresses; and,
 * Share your passion for science!
 
 
-## Undergraduate courseware students (KIN 391/ KIN 472)
-Within the lab, the main role of courseware students is first and foremost to be students. I understand that you may also be taking other classes, as well as juggling other responsibilities, so you will not be asked to focus all your time and energy on this one course. Remember to take take care of your mental health and communicate when you have "hell week" coming up. The benefit of taking a KIN 391 / KIN 472 is the flexibility it offers in terms of scheduling work time and deadlines. Regardless, you are still expect  to attend lab meetings and meet deadlines mutually agreed upon between you and Jason, and, communicate when unable to do so. Please note, you are NOT expected to end the term with a paper publication or having designed and conducted a experimental research study.
+## Undergraduate coursework students (KIN 391/ KIN 472)
+Within the lab, the main role of coursework students is first and foremost to be students. I understand that you may also be taking other classes, as well as juggling other responsibilities, so you will not be asked to focus all your time and energy on this one course. Remember to take take care of your mental health and communicate when you have "hell week" coming up. The benefit of taking a KIN 391 / KIN 472 is the flexibility it offers in terms of scheduling work time and deadlines. Regardless, you are still expected  to attend lab meetings and meet deadlines mutually agreed upon between you and Jason, and communicate when unable to do so. Please note, you are NOT expected to end the term with a paper publication or having designed and conducted a experimental research study.
 
-As courseware students, you are expected to do the following:
+As coursework students, you are expected to do the following:
 * Conduct a literature review, collect data, perform data analysis, or any other project mutually agreed upon before the start of the term, which contributes to the goals and objectives of the lab;
 * Keep detailed notes on progress of research for the duration of the course so that this can be passed down to subsequent researchers;
 * Present research findings at the end of the term during a team meeting;
-* Since this class is not in your quest schedule, I expect you to contribute at least 3hrs per week of “class time” as expected of all 0.5 credit courses;
 * Plan and schedule regular meetings with Jason to check in; and,
 * Participate actively during team meetings.
 
@@ -72,7 +71,7 @@ FROM THE STUDENTS: We expect our courseware student peers to:
 * Take initiative - you have to be self-motivated to secure your interests and don’t be passive about your objectives;
 * Contribute to positive/collaborative environment;
 * Share ideas/questions as well as interesting findings; and,
-* Follow through with commitments
+* Follow through with commitments.
 
 
 ## Undergraduate Volunteers
@@ -80,7 +79,7 @@ Within the lab, the main expectation for undergraduate students is to engage wit
 
 In addition to the above, undergraduate students are expected to:
 * Focus on their undergraduate courses. Protect your study time and do not overcommit to lab tasks if you don't have the time;
-* Try to carve out time to work in the lab environment. This doesn't mean you have to be working on lab tasks; studying for midterms or working on assignments in the vicinity of active research can help you pick up small tips or meaningful interactions with senior students in the lab;
+* Try to carve out time to work in the lab environment. This doesn't mean you have to be working on lab tasks - studying for midterms or working on assignments in the vicinity of active research can help you pick up small tips or meaningful interactions with senior students in the lab;
 * Develop core research skills related to experimental design, basic data collection, as well as reading, writing, and presentation skills.
 
 FROM THE STUDENTS: We expect our undergraduate volunteer peers to:
