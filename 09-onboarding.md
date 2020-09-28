@@ -43,8 +43,8 @@ It is expected that during your time in the VORTEX Lab, you will have to learn s
 To begin your MATLAB learning journal, here are some excellent resources to review prior to working in the lab:
 * Borrow Jason's copy of 'An Introduction to Programming and Numerical Methods in MATLAB' by SR Otto & JP Denier;
 * [MATLAB Basics](https://www.youtube.com/watch?v=zr_aB7V79DE) on youtube;
-* Start reading some 'well-commented' scripts already made in the lab.
-* Start playing! The best way to learn is to start trying things out in MATLAB. I have uploaded some 'practice sets' to this repository of problems that you will routinely encounter in cardiovascular sciences.
+* Start reading some 'well-commented' scripts already made in the lab;
+* Start playing! The best way to learn is to start trying things out in MATLAB. I have uploaded some 'practice sets' to this repository of problems that you will routinely encounter in cardiovascular sciences; and,
 * You can Google just about anything can get excellent resources from forums and StackOverflow. Getting better at coding means learning how to Google your question!
 
 ### RStudio
@@ -61,10 +61,10 @@ At the start of every studentship (undergrad and grad), students will meet one-o
 * Mentorship meeting frequency and structure;
 * Working habits;
 * Time off / vacations;
-* Strategies to stay 'on time' for program milestones (proposal, committee meetings, defenses);
+* Strategies to stay 'on time' for program milestones (proposal, committee meetings, defences);
 * Teaching and volunteer interests;
 * Career plans and goals;
 * Conference plan and funding expectations;
 * Publishing and authorship expectations;
-* Expectations to apply for external funding;
-* Responsibility for research ethics;
+* Expectations to apply for external funding; and,
+* Responsibility for research ethics.

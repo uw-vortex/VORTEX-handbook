@@ -52,6 +52,6 @@ You can pick your friends, but you can't pick your labmates! Part of the challen
 * **Ask before you borrow equipment**
 * **Be cognizant of shared lab time and resources**
 * **Keep notes about method successes and failures that may help others**
-* **Don't hold onto small offenses**
+* **Don't hold onto small offences**
 * **Speak up about problems you encounter - there are likely others who will be affected by them**
 * **Follow through on action items with a timeline - don't leave your labmates hanging**
