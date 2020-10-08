@@ -10,7 +10,7 @@ Full group lab meetings occur weekly, Tuesday's from 12:30 to 1:30pm on MS Teams
 | 4 | Oct 6 | TidyTuesday activity | Jason |
 | 5 | Oct 13 | READING WEEK: No meeting! | ---- |
 | 6 | Oct 20 | Journal Club / Questions About Science | Jason |
-| 7 | Oct 27 | CSEP Recap | Jason |
+| 7 | Oct 27 | ARTERY Recap | Students |
 | 8 | Nov 3 | TBD | TBD |
 | 9 | Nov 10 | Presentation club | All |
 | 10 | Nov 17 | Journal Club | TBD |
