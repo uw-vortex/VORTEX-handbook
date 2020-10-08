@@ -79,7 +79,7 @@ Within the lab, the main expectation for undergraduate students is to engage wit
 
 In addition to the above, undergraduate students are expected to:
 * Focus on their undergraduate courses. Protect your study time and do not overcommit to lab tasks if you don't have the time;
-* As an estimate, do not commit more than 5 hours a week for the lab;
+* As an estimate, try to limit your lab commitment to < 5 hours, or whatever hours you have discussed with Jason during onboarding;
 * Try to carve out time to work in the lab environment. This doesn't mean you have to be working on lab tasks - studying for midterms or working on assignments in the vicinity of active research can help you pick up small tips or meaningful interactions with senior students in the lab; and,
 * Develop core research skills related to experimental design, basic data collection, as well as reading, writing, and presentation skills.
 
