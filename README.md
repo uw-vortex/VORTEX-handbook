@@ -1,4 +1,4 @@
-<img src="/vortex_logo_crop.png" alt="VORTEX logo"/>
+<img src="/vortex_logo_crop_v2.png" alt="VORTEX logo"/>
 
 # VORTEX Lab Handbook
 
