@@ -22,6 +22,15 @@ For example, this is a rough breakdown for a PhD who secures $21,000 of NSERC fu
 
 **The ability to secure funding will not impact internal lab opportunities, available conference support, or result in preferential treatment.**
 
+### Known external awards to keep on your radar
+#### Undergraduate Funds
+[NSERC Undergraduate Student Research (USRA)](https://www.nserc-crsng.gc.ca/Students-Etudiants/UG-PC/USRA-BRPC_eng.asp): ~$5,600 to fund a full-time research position (35 hrs/week for 16 weeks) to work as a Research Assistant in the lab. Jason will support one application per year, depending on available NSERC funds.
+
+[Hallman Undergraduate Research Fellowship](https://uwaterloo.ca/applied-health-sciences/faculty-staff/research-funding/hallman-undergraduate-research-fellowship): Maximum $10,000 to fund a student salary and research project in the field of health promotion and education. Jason will support one application per year, dependent upon high GPA (>85% cumulative average).
+
+#### Graduate Funds
+[Mitacs-Japan Society for the Promotion of Science (JSPS) Summer Program](https://www.mitacs.ca/en/programs/globalink/mitacs-jsps-summer-program): ~$8,000 living expenses + ~$5,000 research funds + flights to undertake a 12-week internship in Japan with a project collaborator. Applications are typically due in December and require a full project plan with Jason and collaborator to apply.
+
 ## Part-time jobs
 It is university policy that full-time graduate students should avoid working more than 10 hr/wk with external employees. More information on this policy can be found on the [Graduate Studies website](https://uwaterloo.ca/graduate-studies-academic-calendar/general-information-and-regulations/full-time-students).
 

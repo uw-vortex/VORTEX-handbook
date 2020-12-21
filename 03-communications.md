@@ -1,12 +1,12 @@
 # Lab communications
 
 ## Communication
-**Emails**: The primary method of communication in the lab is UW email, mostly to ensure a record of work-relevant discussions within the labspace. While I do not expect you to have constant access to email, it is expected that you make a reasonable attempt to respond to emails within a timely manner (let's say <24 hours for intra-lab communications as a common courtesy), even if it is a quick acknowledgement. For example, if you send me an email asking for edits on a paper, I probably won't get that back to you in an hour, but I will acknowledge the task and give you an idea on a timeline.
+**Emails**: The primary method of communication in the lab is UW email, mostly to ensure a record of work-relevant discussions within the lab space. While I do not expect you to have constant access to email, it is expected that you make a reasonable attempt to respond to emails within a timely manner (let's say <24 hours for intra-lab communications as a common courtesy), even if it is a quick acknowledgement. For example, if you send me an email asking for edits on a paper, I probably won't get that back to you in an hour, but I will acknowledge the task and give you an idea on a timeline.
 
 *A Note on Emails*: Email habits and working hours are highly personal. Personally, I find email stress to be very real and very difficult (e.g., thinking about work in off hours), and will try not send students emails outside work hours to reduce your cognitive load. I include the following post-script to my outgoing emails to try and ease the collective cognitive load:
 "My working day may not be your working day. Please do not feel obliged to reply to this email outside your normal working hours."
 
-**Whatsapp**: We also have a lab Whatsapp group for more casual communication. This includes more time-sensitive topics, or lab socials. We won't leave you out of the chat!
+**Whatsapp**: We [will] also have a lab Whatsapp group for more casual communication with graduate students and staff. This includes more time-sensitive topics, or lab socials. We won't leave you out of the chat!
 
 **COVID-19 Updates: Microsoft Teams**: Given the absence of in person communications, we will be using Microsoft Teams to keep a virtual lab space to discuss issues, research plans, and lab-related topics. Teams is supported by UW so it should integrate well with your UW accounts.
 
@@ -18,7 +18,7 @@ Finally, we have an emergency contact list posted in the lab with everyone's per
 
 
 ### VORTEX Lab Meetings
-Full group lab meetings occur weekly. This Fall 2020, we will have meetings **Tuesday @ 12:30pm**. The general format of lab meetings are:
+Full group lab meetings occur weekly. The general format of lab meetings are:
 * general announcements;
 * research issues to be considered by the group;
 * individual updates; and,
@@ -36,7 +36,7 @@ The structure of these meetings will vary between students, and will be shaped b
 Jason is more than willing to help review your term papers, literature reviews, proposals, manuscript drafts, and thesis in advance of your submission dates. Over the course of your research career, you will no doubt be on the receiving end of many types of editors, each with their own style of feedback. To give you an idea of what to expect from Jason, the below points try to capture his review style and expectations.
 * Jason will use the track-changes feature in word to mark his edits. To help him remember what was discussed in earlier versions, you don't need to clear all mark-up in subsequent versions - it will be easier to see what sections have been addressed in depth.
 * Jason will use comments to identify unclear areas (sometimes excessively), generally including specific examples or suggested revisions to clarity sentences.
-* Don't be alarmed if the document comes back heavily marked with grammar suggestions, sentence re-writes, and many small comments, particularly in your first few papers - this is just Jason showing he cares about your work and wants you to 'learn-by-revision' for his personal style of writing.
+* **Don't be alarmed if the document comes back heavily marked with grammar suggestions, sentence re-writes, and many small comments, particularly in your first few papers - this does not mean your paper is terrible! Jason cares about your work and wants to provide as many suggestions as possible to improve your paper. No one really formally learns writing during undergrad and you aren't expected to come into the lab as an English or science writing expert. You are encouraged to consider these edits and 'learn-by-revision' to incorporate writing tips and style into your next paper.**
 
 In addition, Jason has some particular writing quirks that he asks you to adopt:
 * In general, Jason prefers Arial 12pt font, justified 1" margins, single spaced, 6 point space gap between paragraphs with no tabs, and single spaces after periods - you are welcome to challenge him that other formats are superior, but good luck :)

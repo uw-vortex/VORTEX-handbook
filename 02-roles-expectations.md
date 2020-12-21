@@ -57,8 +57,8 @@ FROM THE STUDENTS: We expect our graduate student peers to:
 * Share your passion for science!
 
 
-## Undergraduate coursework students (KIN 391/ KIN 472)
-Within the lab, the main role of coursework students is first and foremost to be students. I understand that you may also be taking other classes, as well as juggling other responsibilities, so you will not be asked to focus all your time and energy on this one course. Remember to take take care of your mental health and communicate when you have "hell week" coming up. The benefit of taking a KIN 391 / KIN 472 is the flexibility it offers in terms of scheduling work time and deadlines. Regardless, you are still expected  to attend lab meetings and meet deadlines mutually agreed upon between you and Jason, and communicate when unable to do so. Please note, you are NOT expected to end the term with a paper publication or having designed and conducted a experimental research study.
+## Undergraduate coursework students (KIN 391 / KIN 431/ KIN 472)
+Within the lab, the main role of coursework students is first and foremost to be students. I understand that you may also be taking other classes, as well as juggling other responsibilities, so you will not be asked to focus all your time and energy on this one course. Remember to  take care of your mental health and communicate when you have "hell week" coming up. The benefit of taking a research course is the flexibility it offers in terms of scheduling work time and deadlines. Regardless, you are still expected  to attend lab meetings and meet deadlines mutually agreed upon between you and Jason, and communicate when unable to do so. Please note, you are NOT expected to end the term with a paper publication or having designed and conducted a experimental research study.
 
 As coursework students, you are expected to do the following:
 * Conduct a literature review, collect data, perform data analysis, or any other project mutually agreed upon before the start of the term, which contributes to the goals and objectives of the lab;
@@ -91,7 +91,7 @@ FROM THE STUDENTS: We expect our undergraduate volunteer peers to:
 
 
 ## Research Staff (RA, Co-op, etc.)
-Within the lab, research staff should have a more structured work week and are formally working as paid university employees. While hours of work will depend on the contract, it is best practice to be present in the lab during conventional working hours (between 8am-6pm, depending on hours). While specific roles will differ, research staff are expected to work towards their assigned projects as well as support other students in the lab with your particular expertise.
+Within the lab, research staff should have a more structured work week and are formally working as paid university employees. While hours of work will depend on the contract, it is best practice to be present in the lab or be available during conventional working hours (between 8am-6pm, depending on hours). While specific roles will differ, research staff are expected to work towards their assigned projects as well as support other students in the lab with your particular expertise.
 
 FROM THE STUDENTS: We expect our research staff to:
 * TBD when we have research staff join the lab.

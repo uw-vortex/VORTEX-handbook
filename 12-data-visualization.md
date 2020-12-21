@@ -4,13 +4,14 @@
 As part of our decision to use R for open science practices, we will be making a concerted effort to use R for all conference and publication plots. Starting R can be daunting for those new to coding, but we will try to provide as many resources as possible to get you started. On this page, you will find standard code sections for formatting graphs to keep visualization consistent across the lab.
 
 ## General theme
+**We are always looking for a fresh look! Each term, I challenge lab members to work on new templates for publications, presentation, and knowledge translation activities. The collective 'best' templates will be updated here**
+
 For publication quality graphs, we will use these theme settings based on the theme_classic() preset. This allows:
 * X- and Y-axis solid black ;
 * Larger text font and spaced out axis titles;
 * Larger margins around the plot;
 * Bottom oriented legend (although this will be moved within the plot borders, depending on the data); and,
 * Absence of gridlines, plot borders, titles, or captions.
-
 
 ```r
 theme_classic()+

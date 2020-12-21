@@ -23,4 +23,5 @@ This is a 'living document' and we are continually improving the way we interact
 10. Offboarding: What next?
 11. Lab Equipment
 12. Data Visualization
-13. Suggested Reading
+13. COVID-19 Information
+14. Lab Alumni Fast Facts
