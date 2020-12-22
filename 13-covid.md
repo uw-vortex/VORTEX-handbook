@@ -1,6 +1,6 @@
 # COVID Lab Advisements
 
-# The Ontario government has imposed a lockdown from December 24, 2020 to January 21, 2020. No in-person lab work can be completed during this time.
+# The Ontario government has imposed a lockdown from December 24, 2020 to January 23, 2021. Current recommendations indicate we can continue safety-plan-approved lab activities that do not involve face-to-face human research.
 
 ## Required Training
 All lab members who will be working on campus are required to take the following course on LEARN:
