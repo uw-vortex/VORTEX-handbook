@@ -13,8 +13,8 @@
 * **Ontario Exercise Physiology (OEP)**
     * Scope: Local graduate student meeting with emphasis on presentation skills and networking
     * Size: 100
-    * Next meeting: 2021 CANCELLED
-    * Abstract deadline: January 2021
+    * Next meeting: January 2022
+    * Abstract deadline: December 2021
     * Known funding: None
 * **American College of Sports Medicine (ACSM)**
     * Scope: Very large exercise conference with international exposure
@@ -25,8 +25,8 @@
 * **North American Artery (NAA)**
     * Scope: Focused artery physiology conference
     * Size: 100
-    * Next meeting: n/a
-    * Abstract deadline: n/a
+    * Next meeting: May 21-22, Virtual
+    * Abstract deadline: March 2021
     * Known funding: None
 * **ARTERY**
     * Scope: Focused artery physiology conference

@@ -39,7 +39,7 @@ FROM THE STUDENTS: We expect Jason to:
 * Set clear work deadlines (ex. micro deadlines, soft and hard deadlines) and work with students to set them.
 
 
-## Graduate Students
+## Research Graduate Students
 Within the lab, the main role for graduate students is, first and foremost, to be students. You are not employees and I do not expect you to work as such. Graduate students are expected to work through your courses, set realistic goals unique to your objectives, and work towards those goals through whatever means you learn best. Senior graduate students are expected to offer support to junior students, and in turn, junior students are expected to reach out for help from senior students to share knowledge within the team.
 
 In addition to the above, graduate students are expected to:
@@ -56,6 +56,19 @@ FROM THE STUDENTS: We expect our graduate student peers to:
 * Give students the opportunity to shadow/follow your work as it progresses; and,
 * Share your passion for science!
 
+## Coursework Graduate Students
+The coursework-based MSc program offers unique opportunities to participate in single-term research projects through the KIN 680 course. Within the VORTEX Lab, single-term MSc students will be invited to participate as full members of the lab in addition to the formal structure of the KIN 680 course. Coursework students operate in somewhat of a vague space between experienced lab members and senior undergraduate students, with expectations in day-to-day leadership and increased responsibility appropriate for their year of study. Although our time together will be short, we will work together to realize clear research goals for the term and provide a sneak peek into the day-to-day operations of a research lab experience!
+
+In addition to the above, coursework graduate students are expected to:
+* Mentor undergraduate students and act as leaders in the lab to provoke critical thought in research topics of interest;
+* Work towards term goals, with clear endpoints for summative course elements; and,
+* Contribute to research discussions, drawing on personal experiences and fresh knowledge for concurrent graduate courses.
+
+FROM THE STUDENTS: We expect our coursework graduate student peers to:
+* Be open in sharing what they are working on to encourage overlapping research interests;
+* Be open to share guidance about the graduate studies process and job market; and,
+* Be open to discussing individual research question and ask thought-provoking questions about research projects in the lab.
+
 
 ## Undergraduate coursework students (KIN 391 / KIN 431/ KIN 472)
 Within the lab, the main role of coursework students is first and foremost to be students. I understand that you may also be taking other classes, as well as juggling other responsibilities, so you will not be asked to focus all your time and energy on this one course. Remember to  take care of your mental health and communicate when you have "hell week" coming up. The benefit of taking a research course is the flexibility it offers in terms of scheduling work time and deadlines. Regardless, you are still expected  to attend lab meetings and meet deadlines mutually agreed upon between you and Jason, and communicate when unable to do so. Please note, you are NOT expected to end the term with a paper publication or having designed and conducted a experimental research study.
@@ -64,8 +77,9 @@ As coursework students, you are expected to do the following:
 * Conduct a literature review, collect data, perform data analysis, or any other project mutually agreed upon before the start of the term, which contributes to the goals and objectives of the lab;
 * Keep detailed notes on progress of research for the duration of the course so that this can be passed down to subsequent researchers;
 * Present research findings at the end of the term during a team meeting;
-* Plan and schedule regular meetings with Jason to check in; and,
-* Participate actively during team meetings.
+* Plan and schedule regular meetings with Jason to check in;
+* Participate actively during team meetings; and,
+* Plan for a rough time commitment of no more than 6-8 hours/week for 12 weeks of the term (recommended by the Department to roughly manage your course load).
 
 FROM THE STUDENTS: We expect our courseware student peers to:
 * Take initiative - you have to be self-motivated to secure your interests and don’t be passive about your objectives;
@@ -94,4 +108,8 @@ FROM THE STUDENTS: We expect our undergraduate volunteer peers to:
 Within the lab, research staff should have a more structured work week and are formally working as paid university employees. While hours of work will depend on the contract, it is best practice to be present in the lab or be available during conventional working hours (between 8am-6pm, depending on hours). While specific roles will differ, research staff are expected to work towards their assigned projects as well as support other students in the lab with your particular expertise.
 
 FROM THE STUDENTS: We expect our research staff to:
-* TBD when we have research staff join the lab.
+* To be available within a reasonable time to help assist research questions and day-to-day tasks;
+* To reply to research inquires within a reasonable amount of time, i.e., polite acknowledgement of requests within ~48 hours;
+* To be comfortable sharing information about current workload to gain insight on the multitude of job responsibilities;
+* [For longterm staff] To have in depth knowledge on techniques, equipment, and analysis methods in the lab for casual first-line student training; and,
+* [For longterm staff] To keep up to date on literature in their particular area of expertise. (Jason's note: Take this as a suggestion to prioritize reading time, even when things get busy - the eternal struggle of a life-long academic.)

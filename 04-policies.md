@@ -45,10 +45,10 @@ People need breaks! The lab is more than happy to accommodate any personal trave
 
 ### How to be a GREAT labmate
 You can pick your friends, but you can't pick your labmates! Part of the challenge of lab work is learning how to navigate teamwork in a largely independent working environment. While you will have your own projects, you will need the help of your labmates to solve problems, get trustworthy feedback, and build a support structure for when academic times get tough (e.g., paper rejections, thesis prep, job hunt). While every person is different, here are some quick tips to get integrated into the lab:
-* **Show up to things**;
-* **Be present**;
-* **Talk about authorship up-front**
+* **Show up to things**
+* **Be present**
 * **RSVP right away**
+* **Talk about authorship up-front**
 * **Ask before you borrow equipment**
 * **Be cognizant of shared lab time and resources**
 * **Keep notes about method successes and failures that may help others**
