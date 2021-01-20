@@ -3,13 +3,13 @@
 ## Undergraduate Students
 You've completed your term objectives and submitted your final papers! Now what? Before you leave the lab, there are a few things you need to finalize:
 
-## Data!
+### Data!
 Before leaving, I ask that you touch base with your graduate supervisor to identify where any data you worked on during the term is located. If you were working off your personal computer, make sure that everything is backed up on the lab V: drive, or on-site in the lab computers.
 
-## Evaluations
+### Evaluations
 As part of undergraduate coursework, Jason will be evaluating you at two points throughout the term: a midterm performance evaluation which is not associated with a grade, and a final performance evaluation that will comprise your lab experiential learning grade. Be sure to review this with Jason and ask any clarifying questions before the end of term and mark submission.
 
-## Post-lab support
+### Post-lab support
 While your time with us is complete, all undergraduates are welcome to participate in lab activities throughout the full academic year you are involved in the lab (September to August). Feel free to continue participating remotely on Teams, and joining lab meetings, but we won't assign you any additional work unless we have established ongoing commitment to research projects or volunteering in the lab.
 
 ## Graduate Students
