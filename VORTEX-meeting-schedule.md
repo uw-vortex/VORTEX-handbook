@@ -8,9 +8,9 @@ Full group lab meetings occur weekly, on Microsoft Teams.
 | 2 | Jan 20 | Handbook revisions | Jason |
 | 3 | Jan 27 | Journal Club: Greenlund et al. (2021) AJP-Heart | Jason |
 | 4 | Feb 3 | Stats lesson | Jason |
-| 5 | Feb 10 | Journal Club: Natalie & Shaelynn | Natalie & Shaelynn |
+| 5 | Feb 10 | Journal Club: Brandt et al. (2020), Weiner et al. (2015) | Natalie & Shaelynn |
 | 6 | Feb 17 | Reading Week | ---- |
-| 7 | Feb 24 | Replication Studies & Journal Club: Victoria | Victoria |
+| 7 | Feb 24 | Replication Studies & Armstrong et al. (2012) | Victoria |
 | 8 | Mar 3 | Data presentations | Kailey, Carol & Victoria |
 | 9 | Mar 10 | Tidy Tuesday | Jason |
 | 10 | Mar 17 | Journal Club: Kailey & Mishal | Kailey & Mishal |
