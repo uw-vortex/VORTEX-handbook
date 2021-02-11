@@ -13,7 +13,7 @@ Full group lab meetings occur weekly, on Microsoft Teams.
 | 7 | Feb 24 | Replication Studies & Armstrong et al. (2012) | Victoria |
 | 8 | Mar 3 | Data presentations | Kailey, Carol & Victoria |
 | 9 | Mar 10 | Tidy Tuesday | Jason |
-| 10 | Mar 17 | Journal Club: Kailey & Mishal | Kailey & Mishal |
+| 10 | Mar 17 | Journal Club: Taivainen et al. 2020 & Mishal | Kailey & Mishal |
 | 11 | Mar 24 | Journal Club: Carol & Marie | Carol & Marie |
 | 12 | Mar 31 | KIN 391 Presentations | Carol & Victoria |
 | 13 | Apr 7 | KIN 472/680 Presentations | Kailey & Mishal |

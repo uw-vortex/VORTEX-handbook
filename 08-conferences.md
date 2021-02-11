@@ -37,19 +37,19 @@
 * **Experimental Biology (EB)**
     * Scope: Very large physiology conference
     * Size: 5000
-    * Next meeting: n/a
+    * Next meeting: April 27-30, 2021 Virtual
     * Abstract deadline: November
     * Known funding: Society travel grants available
 * **International Ultrasonics Symposium**
     * Scope: Large ultrasound engineering conference
     * Size: 5000
-    * Next meeting: VIRTUAL MEETING
-    * Abstract deadline: March
+    * Next meeting: September 12-18, 2021 Virtual
+    * Abstract deadline: April 7
     * Known funding: Society travel grants available
 * **National Undergraduate Research Conference**
     * Scope: Undergraduate-only conference to present senior thesis studies
     * Size: 500
-    * Next meeting: Toronto, ON
+    * Next meeting: April 12-14, 2021 Virtual
     * Abstract deadline: March 2021
     * Known funding: AHS Undergraduate Research Experiential Fund (see below in Money)
 
