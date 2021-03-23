@@ -49,5 +49,6 @@ In addition, Jason has some particular writing quirks that he asks you to adopt:
 * Some general writing tips:
   * Try to avoid starting sentences with leading clauses (e.g., However,... Given the reduced heart rate,... Rather than attribute the findings to X,...);
   *  Break up lengthy written sections with subheadings;
-  * Try to avoid non-specific adjectives (e.g., there was a large effect of exercise vs exercise induced a 10% increase in fitness)
-  * First person writing is okay (i.e., we observed...)
+  * Try to avoid non-specific adjectives (e.g., there was a large effect of exercise vs exercise induced a 10% increase in fitness);
+  * First person writing is okay (i.e., we observed...); and
+  * Oxford commas everywhere please!

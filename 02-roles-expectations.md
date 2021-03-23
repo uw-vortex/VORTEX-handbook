@@ -14,7 +14,7 @@ Throughout your studies, you will no doubt feel the pressure to produce research
 Within the lab, my main roles include finding grant money to keep the lights on, mentoring trainees joining the lab, and acting as the main resource in the pipeline for experimental design and data interpretation. I have a casual open-door policy for trainees and always have my phone and email nearby for research or personal emergencies. While not a taskmaster, I will try to keep you on target for your personal research and career goals, and will try to *constructively* push you out of your comfort zone.
 
 Jason's working policies:
-* I will acknowledge your emails with 24hrs on working days;
+* I will acknowledge your emails within 24hrs on working days;
 * I request at least 2 weeks notice for writing / reviews requests from students. This includes paper drafts, thesis edits, reference letters, and scholarship applications;
 
 
@@ -31,12 +31,12 @@ FROM THE STUDENTS: We expect Jason to:
 * Provide an opportunity for us to develop as an independent researcher and to foster an atmosphere of learning;
 * To take into account student’s goals and to assist students in working towards them (within reason);
 * Challenge students to learn new skills relevant to working in the lab;
-* Provide constructive criticism and feedback of student's work;
-* Be available to students during office hours and at times arranged by mutual agreement and communicate when not able to meet be there;
+* Provide constructive criticism and feedback of the students' work;
+* Be available to students during office hours and at times arranged by mutual agreement and communicate when not able to be there;
 * Assess student performance as objectively as possible;
 * Promote an environment that fosters collaborative work, and reduces competition;
 * Share his excitement about his work and developments in the field with his students; and
-* Set clear work deadlines (ex. micro deadlines, soft and hard deadlines) and work with students to set them.
+* Set clear work deadlines (ex. micro deadlines, soft, and hard deadlines) and work with students to set them.
 
 
 ## Research Graduate Students
@@ -44,7 +44,7 @@ Within the lab, the main role for graduate students is, first and foremost, to b
 
 In addition to the above, graduate students are expected to:
 * Work towards your research objectives, developed in conjunction with Jason and your supervisory committee;
-* Plan regular meetings with supervisory team to meet your research needs;
+* Plan regular meetings with your supervisory team to meet your research needs;
 * Apply for external scholarships;
 * Mentor junior lab members;
 * Keep detailed research notes throughout your studies;
