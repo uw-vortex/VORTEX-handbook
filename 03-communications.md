@@ -52,3 +52,4 @@ In addition, Jason has some particular writing quirks that he asks you to adopt:
   * Try to avoid non-specific adjectives (e.g., there was a large effect of exercise vs exercise induced a 10% increase in fitness);
   * First person writing is okay (i.e., we observed...); and
   * Oxford commas everywhere please!
+  * To enhance international reader experience, try to avoid colloquialisms and English language idioms that are less accessible for those whose primary language is not English (e.g., all in all, on the other hand, nowadays).

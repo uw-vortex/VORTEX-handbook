@@ -71,3 +71,60 @@ At the start of every studentship (undergrad and grad), students will meet one-o
 * Publishing and authorship expectations;
 * Expectations to apply for external funding; and,
 * Responsibility for research ethics.
+
+## Suggested Courses
+If you are interested in formalizing your training, we suggest looking into the following undergraduate and graduate courses that are related to day-to-day experiences in the lab:
+
+### Undergraduate Courses
+* KIN 308: Cardiovascular Physiology (New)
+* KIN 402: Microgravity, Hypo- and Hyperbaric Physiology
+* KIN 407: Cardiovascular Pathophysiology
+* BIOL 273: Principles of Human Physiology
+* BIOL 373: Principles of Human Physiology 2
+
+### Graduate Courses
+* KIN 602: Respiratory and Cardiovascular Physiology
+* KIN 603: Cardiac and Vascular Smooth Muscle Physiology
+* KIN 607 Integrative Energy Metabolism in Health and Disease
+* KIN 612: Instrumentation and Signal Processing in Biophysical Research
+* KIN 630: Research Design and Statistical Analysis
+
+## General timelines at a glance
+### So you're an undergrad...
+There are many different types of undergraduate projects available in the lab. Independent studies can take many different forms with the only defining features being a midterm performance evaluation, and end of term presentations, term papers, and final evaluations. Senior thesis experiences are more involved, with the following suggested timeline (assuming a Fall KIN 431 and Winter KIN 432):
+
+| Date | Milestone | Description |
+| ---- | ---- | ---- |
+| March | Initial contact | For the best experience, contact the lab early to ensure an appropriate thesis project can be planned before the start of the Fall term |
+| Sept | First meetings | Establish project scope and responsibilities with PI and grad student mentor |
+| Sept-Oct | In-lab training | Study prep |
+| Oct-Dec | Data collection | Depending on the project, data collection windows may vary |
+| Dec | Proposal & Lit Review due | Part of final course evaluations |
+| Jan-Feb | Finish data collection and start analysis | ---- |
+| Mar | Data analysis | ---- |
+| Mar | National Undergrad Research Conference | UG conference hosted by UofT to highlight undergraduate research in Kinesiology |
+| Apr | Present to lab group | Practice time! |
+| Apr | UW thesis colloquium | Part of final course evaluations |
+| Apr | Final papers due | Part of final course evaluations |
+
+### So you're a MSc trainee...
+Research-based MSc's run through 6 terms, and include both course requirements and lab research activities. Timelines will widely vary between students, though the typical milestones will be similar. However, I encourage you to involve yourself as much as possible to your own interests throughout your tenure in the lab!
+
+| Term | Milestone | Description |
+| ---- | ---- | ---- |
+| 1 | 2-3 courses + Lab training | Lead-in time to explore Waterloo and get used to the lab environment |
+| 2 | 1-2 courses + Lab pilot work | Goal to be proficient at acquiring data on human participants |
+| 3 | Working towards Research Proposal and committee selection + Ethics | Gearing up to run full study |
+| 4 | Full Research mode! | Data collection |
+| 5 | Full Research mode! | Finish collection + Analysis |
+| 6 | Finish writing and Final Defense | MSc achieved |
+
+### So you're a PhD trainee...
+It is very difficult to predict the trajectory of a PhD journey as they are largely driven by your interests and motivations. The following is the bare minimum glance at the timelines involved for the major milestones of the program.
+
+| Year | Milestone | Description |
+| ---- | ---- | ---- |
+| 1 | 2 courses + Lab training | ---- |
+| 2 | Comprehensive exams + Research Proposal | Mandatory by end of Year 2 |
+| 3 | Full research! | ---- |
+| 4 | Full research + Defense | ---- |
