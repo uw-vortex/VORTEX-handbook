@@ -3,9 +3,9 @@
 ## Current Sources of Lab Funding
 Most of our research funding in the lab is publicly-funded (government funding), and therefore we have accountability to declare our sources and report how we are using public funds to improve the lives of Canadians through our research. Below are our current sources of funding to operate the lab:
 * Start-up Funds (University of Waterloo)
-<!-- * NSERC Discovery Grant 2021-2026 (RGPIN-2021-02563)
+* NSERC Discovery Grant 2021-2026 (RGPIN-2021-02563)
 * NSERC Discovery Launch Supplement 2021-2022 (DGECR-2021-00028)
-* CFI-JELF Equipment Grant 2021-2026 -->
+* CFI-JELF Equipment Grant 2021-2026
 
 ## Stipends
 Graduate stipends are set by the department at $20,000/year for MSc students and $24,055/year for PhD students. Supplementary funding from the lab may be available depending on available grants and current projects.
@@ -40,6 +40,8 @@ While Jason will promote these awards as much as possible, it is the duty of the
 [Mitacs-Japan Society for the Promotion of Science (JSPS) Summer Program](https://www.mitacs.ca/en/programs/globalink/mitacs-jsps-summer-program): ~$8,000 living expenses + ~$5,000 research funds + flights to undertake a 12-week internship in Japan with a project collaborator. Applications are typically due in December and require a full project plan with Jason and collaborator to apply.
 
 [CSEP Scholarship for Persons from Underrepresented Groups](https://csep.ca/en/about-csep/awards--grants-/csep-scholarship-for-persons-from-underrepresented-groups-): $2,500 award for a CSEP certified or student member in good standing to increase participation in STEM research. Underrepresented groups are defined according to the [Tri-Agency Equity, Diversity and Inclusion Action Plan](https://www.nserc-crsng.gc.ca/NSERC-CRSNG/EDI-EDI/Dimensions-Charter_Dimensions-Charte_eng.asp).
+
+[Ontario Graduate Scholarship / Queen Elizabeth II Scholarship](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/current-students/external-awards/ontario-graduate-scholarship-ogs-and-queen-elizabeth-ii): $15,000 award for a single year. For MSc applicants, your UW application also serves as your OGS/QEII scholarship application. For current grad students, you must submit a separate application to the graduate administrator following the instructions on the UW page. Typically due February 1st.
 
 ##### Tri-council awards
 The following awards are the key major awards that graduate students are expected to apply for. You are only allowed to apply to one of the tri-council agencies per application cycle - please discuss with Jason whether you are planning to apply for CIHR or NSERC. (Note: The third 'tri-council', SSHRC, rarely applies to our research and is usually not an option for our research program)

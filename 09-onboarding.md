@@ -81,6 +81,7 @@ If you are interested in formalizing your training, we suggest looking into the 
 * KIN 407: Cardiovascular Pathophysiology
 * BIOL 273: Principles of Human Physiology
 * BIOL 373: Principles of Human Physiology 2
+* BIOL/GERONTOL 355: Biology of Human Aging
 
 ### Graduate Courses
 * KIN 602: Respiratory and Cardiovascular Physiology
