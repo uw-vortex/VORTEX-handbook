@@ -7,6 +7,14 @@ You will need the following access cards and keys to work in the lab:
 * Keys: From Kin admin
 * UW Virtual Private Network (VPN): UW Instructions for [Macs](https://uwaterloo.ca/applied-health-sciences-computing/connecting-campus-vpn-mac) and [PCs](https://wiki.uwaterloo.ca/display/ISTKB/Install+the+VPN+client+on+Windows+OS+-+applies+to+IE%2C+Edge%2C+Firefox%2C+and+Chrome)
 
+## Change your email address to something friendly
+1. Go to [WatIAM User Access](https://uwaterloo.ca/watiam/)
+2. Log in with your userid and password
+3. Click the update profile link
+4. Click the email configuration tab
+5. Near the bottom of the box you will see a section for setting your Friendly Email Address. There will be some additional emails available to you here, select the radio button of the one you prefer.
+e.g., j23au@uwaterloo.ca --> jason.au@uwaterloo.ca
+
 ## Health & Safety
 All members of the VORTEX lab need to take the following courses prior to working in the lab. All courses (except TCPS2) can be accessed through the [UW Workday](https://uwaterloo.ca/human-resources/) website --> Learning --> Self-enrollment, or through your LEARN page --> Self-Registration
 * Employee Safety Orientation (SO1001)

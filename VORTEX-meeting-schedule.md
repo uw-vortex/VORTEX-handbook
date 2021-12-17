@@ -4,16 +4,17 @@ Full group lab meetings occur weekly, on Microsoft Teams.
 
 | Week | Date | Topic | Lead |
 | ---- | ---- | ---- | ---- |
-| 1 | Sept 15 | Introductions, Lab Handbook | Jason |
-| 2 | Sept 22 | JC Overview | Jason |
-| 3 | Sept 29 | JC: Chloe | Chloe |
-| 5 | Oct 6 | CSEP Practices | Chloe & Kailey |
-| 6 | Oct 13 | CSEP | CANCELLED |
-| 7 | Oct 20 | CSEP Re-cap + Invite a lab? Baraa? | Jason |
-| 8 | Oct 27 | JC: Josh & Archana | Josh & Archana |
-| 9 | Nov 3 | JC: Lauren & Masha | Lauren & Masha |
-| 10 | Nov 10 | Interim Data Presentation | Trainees |
-| 11 | Nov 17 | JC: Carol | Carol |
-| 11 | Nov 24 | Term summaries | Masha & Archana & Lauren |
-| 12 | Dec 1 | OEP Proposal Plan | Trainees |
-| 13 | Dec 8 | End of term wrap-up | Trainees |
+| 1 | Jan 13 | State-of-the-lab | Jason |
+| 2 | Jan 20 | Trainee Overviews | Trainees |
+| 3 | Jan 27 | OEP Practice | Trainees |
+| 5 | Feb 3 | OEP Practice | Trainees |
+| 6 | Feb 10 | JC | Kailey & Jeremy |
+| 7 | Feb 17 | Data meeting | Carol, Josh, Masha, Chloe, Lauren |
+| 8 | Feb 24 | READING WEEK | Cancelled |
+| 9 | Mar 3 | Joint meeting with Nightingale lab | Jason |
+| 10 | Mar 10 | JC | Elina & Kalyani |
+| 11 | Mar 17 | tbd | tbd |
+| 11 | Mar 24 | Preregistration & Open Science Presentation | Chloe |
+| 12 | Mar 31 | Coursework/Volunteer Presentations | Masha, Elina, Kalyani |
+| 13 | Apr 7 | Thesis Student Presentations | Carol & Josh |
+| 14 | Apr 14 | Event | Jason |
