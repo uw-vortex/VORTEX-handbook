@@ -1,20 +1,20 @@
-# Fall 2021 VORTEX Lab Meeting schedule
+# Fall 2022 VORTEX Lab Meeting schedule
 
-Full group lab meetings occur weekly, on Microsoft Teams.
+Full group lab meetings occur weekly, in person in BMH.
 
 | Week | Date | Topic | Lead |
 | ---- | ---- | ---- | ---- |
-| 1 | Jan 13 | State-of-the-lab | Jason |
-| 2 | Jan 20 | Trainee Overviews | Trainees |
-| 3 | Jan 27 | OEP Practice | Trainees |
-| 5 | Feb 3 | OEP Practice | Trainees |
-| 6 | Feb 10 | JC | Kailey & Jeremy |
-| 7 | Feb 17 | Data meeting | Carol, Josh, Masha, Chloe, Lauren |
-| 8 | Feb 24 | READING WEEK | Cancelled |
-| 9 | Mar 3 | Joint meeting with Nightingale lab | Jason |
-| 10 | Mar 10 | JC | Elina & Kalyani |
-| 11 | Mar 17 | tbd | tbd |
-| 11 | Mar 24 | Preregistration & Open Science Presentation | Chloe |
-| 12 | Mar 31 | Coursework/Volunteer Presentations | Masha, Elina, Kalyani |
-| 13 | Apr 7 | Thesis Student Presentations | Carol & Josh |
-| 14 | Apr 14 | Event | Jason |
+| 1 | Sept 12 | Fall welcome / Term planning | Jason |
+| 2 | Sept 19 | JC: Daylight savings | Dara |
+| 3 | Sept 26 | Data: IJV Expansion | Jeremy |
+| 5 | Oct 3 | JC: Foot ellipticals | Emily |
+| 6 | Oct 10 | Grad meeting: Practice Presentations | Jason |
+| 7 | Oct 17 | CANCELLED: Lab at ARTERY | ---- |
+| 8 | Oct 24 | Undergrad meeting while Grads are on vacation | Jason |
+| 9 | Oct 31 | CANCELLED: Lab at CSEP | ---- |
+| 10 | Nov 7 | Debrief from conferences | Grads |
+| 11 | Nov 14 | Data: Replication update | Lauren/Ashley |
+| 11 | Nov 21 | JC: tbd | Aidan |
+| 12 | Nov 28 | Undergrad Presentations | Emily, Ashley, Dara, Aidan |
+| 13 | Dec 5 | Last lab meeting | Jason |
+| 14 | Dec 12 | Lab Holiday Party | ---- |

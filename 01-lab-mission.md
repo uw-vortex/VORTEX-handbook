@@ -5,4 +5,4 @@ The mission of the lab is *"To better understand how and why vascular disease is
 ## Lab Timeline
 2020: Lab opens at University of Waterloo!\
 2021: First graduate students arrive\
-Present: Recruiting Grad Students for Fall 2022
+Present: Recruiting Undergraduate students for Fall 2022
