@@ -9,6 +9,8 @@ This resource provides an overview of the equipment in the lab, directions to fi
 
 **Mindray M5**: This clinical ultrasound is a piece of legacy equipment from Dr. Rich Hughson and is the workhorse behind the conventional ultrasound measures performed in the lab. We have linear and cardiac probes, in addition to audio export to send Doppler information to expert data processing software.
 
+**Vivid iq**: This clinical ultrasound is a small portable unit that is the workhorse of the lab. We have linear and sector probes for vascular and cardiac imaging. Extremely versatile, the Vivid is mostly used to measure arterial and venous diameters and blood velocities using B-mode, Doppler, and Duplex imaging.
+
 **ProbeFix Dynamic**: This custom probe holder from Usono is designed to work with a variety of ultrasound probes during exercise. We are excited to start working with this equipment and will be happy to share the accuracy and feasibility of the device in the next few years.
 
 ## Pulse Wave Analysis

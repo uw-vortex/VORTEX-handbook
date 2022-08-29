@@ -54,3 +54,14 @@ In addition, Jason has some particular writing quirks that he asks you to adopt:
   * Oxford commas everywhere please!
   * To enhance international reader experience, try to avoid colloquialisms and English language idioms that are less accessible for those whose primary language is not English (e.g., all in all, on the other hand, nowadays).
   * For Undergraduate trainees that have made it this far in the Handbook, I will give you an additional 5% to your final paper if it is formatted to the specifications above.
+
+## Presentation Slide Guidelines
+As a group, we decided on some shared features of our VORTEX presentations that we would like presenters to use. Please try to stick to the below style guidelines when making lab presentations:
+* Use the standard template in the V drive
+* Font: Avenir Next LT Pro Demi
+* Reference in 10 pt font at the bottom of slides (no reference slide)
+* Slide numbers on bottom right
+* Slide titles: Sentence case
+* If including videos, loop until stopped option
+* No animations between slides
+* Default font size on slides: 24 pt
