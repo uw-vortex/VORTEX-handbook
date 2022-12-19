@@ -44,16 +44,16 @@ Jason is more than willing to help review your term papers, literature reviews, 
 * **Don't be alarmed if the document comes back heavily marked with grammar suggestions, sentence re-writes, and many small comments, particularly in your first few papers - this does not mean your paper is terrible! Jason cares about your work and wants to provide as many suggestions as possible to improve your paper. No one really formally learns writing during undergrad and you aren't expected to come into the lab as an English or science writing expert. You are encouraged to consider these edits and 'learn-by-revision' to incorporate writing tips and style into your next paper.**
 
 In addition, Jason has some particular writing quirks that he asks you to adopt:
-* In general, Jason prefers Arial 12pt font, justified 1" margins, single spaced, 6 point space gap between paragraphs with no tabs, and single spaces after periods - you are welcome to challenge him that other formats are superior, but good luck :)
+* In general, Jason prefers Arial 12pt font, justified 1" margins, double spaced, 6 point space gap between paragraphs with no tabs, and single spaces after periods - you are welcome to challenge him that other formats are superior, but good luck :)
 * When writing papers, Jason will ask you to aim for a 1-2 page introduction, 4-6 page discussion, but whatever length methods and results necessary to communicate the findings.
 * Some general writing tips:
   * Try to avoid starting sentences with leading clauses (e.g., However,... Given the reduced heart rate,... Rather than attribute the findings to X,...);
-  *  Break up lengthy written sections with subheadings;
+  * Break up lengthy written sections with subheadings;
   * Try to avoid non-specific adjectives (e.g., there was a large effect of exercise vs exercise induced a 10% increase in fitness);
   * First person writing is okay (i.e., we observed...); and
   * Oxford commas everywhere please!
   * To enhance international reader experience, try to avoid colloquialisms and English language idioms that are less accessible for those whose primary language is not English (e.g., all in all, on the other hand, nowadays).
-  * For Undergraduate trainees that have made it this far in the Handbook, I will give you an additional 5% to your final paper if it is formatted to the specifications above.
+  * For Undergraduate trainees that have made it this far in the Handbook, I will give you an additional 5% to your final paper if it is formatted to the specifications above, and you use the following email subject line when you submit your report: "I like justified paragraphs"
 
 ## Presentation Slide Guidelines
 As a group, we decided on some shared features of our VORTEX presentations that we would like presenters to use. Please try to stick to the below style guidelines when making lab presentations:

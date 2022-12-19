@@ -2,6 +2,8 @@
 
 Full group lab meetings occur weekly, in person in BMH.
 
+Winter 2023 schedule TBD.
+<!--
 | Week | Date | Topic | Lead |
 | ---- | ---- | ---- | ---- |
 | 1 | Sept 12 | Fall welcome / Term planning | Jason |
@@ -18,3 +20,4 @@ Full group lab meetings occur weekly, in person in BMH.
 | 12 | Nov 28 | Undergrad Presentations | Emily, Ashley, Dara, Aidan |
 | 13 | Dec 5 | Last lab meeting | Jason |
 | 14 | Dec 12 | Lab Holiday Party | ---- |
+-->

@@ -7,25 +7,25 @@
 * **Canadian Society for Exercise Physiology (CSEP)**
     * Scope: General exercise physiology with a strong cardiovascular presence
     * Size: 1000
-    * Next meeting: VIRTUAL Oct, 2021
-    * Abstract deadline: June 2021
+    * Next meeting: Oct 11-14, 2023, Calgary
+    * Abstract deadline: June 2023
     * Known funding: Society travel grants available
 * **Ontario Exercise Physiology (OEP)**
     * Scope: Local graduate student meeting with emphasis on presentation skills and networking
     * Size: 100
-    * Next meeting: January 2022
-    * Abstract deadline: December 2021
+    * Next meeting: July 27, 2023, Kingston
+    * Abstract deadline: May 2023
     * Known funding: None
 * **American College of Sports Medicine (ACSM)**
     * Scope: Very large exercise conference with international exposure
     * Size: 5000
-    * Next meeting: n/a
-    * Abstract deadline: November
+    * Next meeting: May 30-June 2, 2023
+    * Abstract deadline: Dec 20, 2022
     * Known funding: Society travel grants available
 * **North American Artery (NAA)**
     * Scope: Focused artery physiology conference
     * Size: 100
-    * Next meeting: May 21-22, Virtual
+    * Next meeting: June 16-17, 2023, Iowa
     * Abstract deadline: March 2021
     * Known funding: None
 * **ARTERY**
