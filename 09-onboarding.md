@@ -23,7 +23,6 @@ All members of the VORTEX lab need to take the following courses prior to workin
 * WHMIS 2015 Training (SO2017 - or later)
 * [TCPS2 Ethics](https://tcps2core.ca/) Certificate
 * [CIHR Sex & Gender training courses](https://cihr-irsc.gc.ca/e/49347.html)
-* **NEW** Returning to Campus Safely During COVID-19 (SO2036)
 
 I would also like everyone to take the First Aid course (SO1038) when it becomes available. This full day course will give you Standard First Aid and CPR C with AED training, which is an incredible package for single-day training. It does not hurt to be prepared in the lab with participants coming in and performing exercise trials in a new environment.
 
