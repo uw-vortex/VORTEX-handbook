@@ -14,7 +14,6 @@ Full group lab meetings occur weekly, in person in BMH.
 | 9 | Mar 1 | Journal club: Ashley | Ashley |
 | 10 | Mar 8 | Journal club: Chloe | Chloe |
 | 11 | Mar 15 | Kailey Proposal Practice | Kailey |
-| 11 | Mar 22 | Data: Daylight Savings | Dara/Rishi |
-| 12 | Mar 29 | Undergrad Presentations | Ashley, Dara, Christina |
-| 13 | Apr 5 | Last lab meeting | Jason |
-| 14 | Apr 12 | TBD | ---- |
+| 11 | Mar 22 | APS Practice: Carol and Lauren | Carol & Lauren |
+| 12 | Mar 29 | Data: Daylight Savings | Dara/Rishi |
+| 13 | Apr 5 | Undergrad Presentations | Ashley/Christina/Rosie |
