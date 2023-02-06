@@ -13,7 +13,7 @@ Full group lab meetings occur weekly, in person in BMH.
 | 8 | Feb 22 | CANCELLED: Reading week | ---- |
 | 9 | Mar 1 | Journal club: Ashley | Ashley |
 | 10 | Mar 8 | Journal club: Chloe | Chloe |
-| 11 | Mar 15 | Kailey Proposal Practice | Kailey |
-| 11 | Mar 22 | APS Practice: Carol and Lauren | Carol & Lauren |
+| 11 | Mar 15 | Kailey Proposal/Lauren Practice | Kailey & Lauren |
+| 11 | Mar 22 | APS Practice: Carol | Carol |
 | 12 | Mar 29 | Data: Daylight Savings | Dara/Rishi |
 | 13 | Apr 5 | Undergrad Presentations | Ashley/Christina/Rosie |
