@@ -1,14 +1,13 @@
 # Lab communications
 
 ## Communication
-**COVID-19 Updates: Microsoft Teams**: Given the absence of in person communications, we will be using Microsoft Teams to keep a virtual lab space to discuss issues, research plans, and lab-related topics. Teams is supported by UW so it should integrate well with your UW accounts. We will run all our meetings through Teams, so I suggest you download the desktop version for easier access to the chat and calendar. We are using Teams chat as a messaging system, so don't be apprehensive about messaging anyone in the lab for assistance throughout the term - this is the norm now!
+We will be using Microsoft Teams to keep a virtual lab chat to discuss issues, research plans, and lab-related topics. Teams is supported by UW so it should integrate well with your UW accounts. We are using Teams chat as a messaging system, so don't be apprehensive about messaging anyone in the lab for assistance throughout the term. You should have a direct line to Jason, as well as at least one VORTEX Lab Group chat to address day-to-day issues in the lab.
 
 *A Note on Teams*: Teams is a University-affiliated workspace and should be treated as a professional environment. Conduct yourselves as you would on campus, closely adhering to the University and Lab code of conduct when interacting with other students and faculty.
 
 **Emails**: The primary method of communication in the lab is UW email, mostly to ensure a record of work-relevant discussions within the lab space. While I do not expect you to have constant access to email, it is expected that you make a reasonable attempt to respond to emails within a timely manner (let's say <24 hours for intra-lab communications as a common courtesy), even if it is a quick acknowledgement. For example, if you send me an email asking for edits on a paper, I probably won't get that back to you in an hour, but I will acknowledge the task and give you an idea on a timeline.
 
-*A Note on Emails*: Email habits and working hours are highly personal. Personally, I find email stress to be very real and very difficult (e.g., thinking about work in off hours), and will try not send students emails outside work hours to reduce your cognitive load. I include the following post-script to my outgoing emails to try and ease the collective cognitive load:
-"My working day may not be your working day. Please do not feel obliged to reply to this email outside your normal working hours."
+*A Note on Emails*: Email habits and working hours are highly personal. Personally, I find email stress to be very real and very difficult (e.g., thinking about work in off hours), and will try not send students emails outside work hours to reduce your cognitive load.
 
 <!-- **Whatsapp**: We [will] also have a lab Whatsapp group for more casual communication with graduate students and staff. This includes more time-sensitive topics, or lab socials. We won't leave you out of the chat! -->
 
@@ -45,7 +44,7 @@ Jason is more than willing to help review your term papers, literature reviews, 
 
 In addition, Jason has some particular writing quirks that he asks you to adopt:
 * In general, Jason prefers Arial 12pt font, justified 1" margins, double spaced, 6 point space gap between paragraphs with no tabs, and single spaces after periods - you are welcome to challenge him that other formats are superior, but good luck :)
-* When writing papers, Jason will ask you to aim for a 1-2 page introduction, 4-6 page discussion, but whatever length methods and results necessary to communicate the findings.
+* When writing research papers, Jason will ask you to aim for a 1-2 page introduction, 4-6 page discussion, but whatever length methods and results necessary to communicate the findings.
 * Some general writing tips:
   * Try to avoid starting sentences with leading clauses (e.g., However,... Given the reduced heart rate,... Rather than attribute the findings to X,...);
   * Break up lengthy written sections with subheadings;

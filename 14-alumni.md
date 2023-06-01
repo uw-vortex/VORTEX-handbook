@@ -8,7 +8,7 @@ None yet.
 None yet.
 
 ## MSc trainees
-None yet.
+* Chloe Athaide, MSc '23: "*Consequences and countermeasures of sedentary behaviour on arterial wave reflection*"
 
 ## Undergraduate trainees (KIN 431 and KIN 472 Projects)
 * Nidhi Bhagat (F20)
@@ -17,6 +17,11 @@ None yet.
 * Mariya Samuel (W22)
 * Josh Gopaul (W22)
 * Carol Bryans (W22)
+* Aidan Nolan (F22)
+* Emily Smith (F22)
+* Ashley Meelu (W23)
+* Rosie Samra (W23)
+* Dara Al-Bakry (W23)
 
 ## Career Ideas for Graduating Trainees
 There are many different career paths after training in the VORTEX Lab. Over the course of your time in the lab, you will gain valuable skills in research methodology, project management, exercise prescription and monitoring, basic coding, among many other experience-specific skills you will pick up along the way. You are encouraged to think about how you want to organize your lab experience based on your career aspirations. To give some perspective, here are a few of the careers that we've seen come up over the years:
@@ -32,6 +37,7 @@ There are many different career paths after training in the VORTEX Lab. Over the
 * Statistics Canada
 * Hitachi Medical
 * Medtronic
+* Intellijoint
 * AD Instruments
 * Hospital administration
 * Industry scientist (e.g., lululemon Whitespace, Nike, Pepsico)

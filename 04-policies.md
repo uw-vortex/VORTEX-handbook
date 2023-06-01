@@ -16,7 +16,7 @@ Enjoyable, high-quality research can only be conducted when you feel safe, secur
 * Be mindful of talking over others when discussing in groups, and be willing to hear out the ideas of others.
 
 
-Jason will discuss the above core principles with lab members who violate these rules, no matter their level of study, or how specialized or needed their skill set. If inappropriate behaviour persists after this initial discussion, formal processes, in line with UW's work practice policies, will commence. To report a breach of code of conduct, please contact Jason Au; all communication will be treated as confidential. If you do not feel comfortable contacting Jason directly, please feel free to contact either Andrew Laing (Associate Chair of Graduate Studies), or Russ Tupling (Department Chair).
+Jason will discuss the above core principles with lab members who violate these rules, no matter their level of study, or how specialized or needed their skill set. If inappropriate behaviour persists after this initial discussion, formal processes, in line with UW's work practice policies, will commence. To report a breach of code of conduct, please contact Jason Au; all communication will be treated as confidential. If you do not feel comfortable contacting Jason directly, please feel free to contact either Steve Fischer (Associate Chair of Graduate Studies), or Russ Tupling (Department Chair).
 
 The above policies were heavily borrowed from the BRG lab run by Christopher Jackson under a CC-BY 4.0 license. We encourage others to also critical evaluate these policies and adapt them for their own purposes.
 
@@ -32,14 +32,14 @@ There is no dress code, but please present yourselves in the lab ready to potent
 ## Work Hours Policy
 There is no work hours policy. The below are suggestions to get you started in exploring your personal research work preferences:
 
-**When people work**: As a faculty member, I will reliably be working weekdays between the hours of 8am-6pm. During this time, I do expect students to at least have access to email, and be available for meetings scheduled in advance - ~~no surprise meetings from me~~ sometimes I may try to schedule impromptu meetings, but do not expect you to be always available. I do not *expect* students to work weekends or evenings, but you are always free to use your time as you choose.
+**When people work**: As a faculty member, I will reliably be working weekdays between the hours of 8am-6pm. During this time, I do expect students to at least have access to email, and be available for meetings scheduled in advance - ~~no surprise meetings from me~~ sometimes I may try to schedule impromptu meetings, but do not expect you to be always available. I do not expect students to work weekends or evenings, but you are always free to use your time as you choose.
 
 **Where people work**: Team members should work where they feel most comfortable (i.e., office, lab, home, coffee shop, park bench). I do encourage you to regularly work in the presence of others, as I believe the team environment is highly important for casual learning. There are many things you can pick up on by just being present in the lab or office, whether that be from more senior students, or students from other research teams. I specifically encourage undergraduate lab members to spend time working in the lab for a rapid pick-up of lab lingo, working habits, and tech know-how!
 
 **Working alone**: The only hardline lab policy regards working alone in the lab. If you are testing participants, there must be at **minimum** two lab members present in the lab (just in case there is an adverse event). If you are working on tasks outside of lab hours, you should follow the [University working alone policies](https://uwaterloo.ca/safety-office/occupational-health-safety/working-alone-guideline).
 
 ## Vacation
-People need breaks! The lab is more than happy to accommodate any personal travel plans - just try to let us know in advance so we can rearrange testing sessions, analyses, and lab activities!
+People need breaks! The lab is more than happy to accommodate any personal travel plans - just try to let us know in advance so we can rearrange testing sessions, analyses, and lab activities! If you know your off days, please put them into the lab calendar.
 
 ## Soft Policies / Tips
 
