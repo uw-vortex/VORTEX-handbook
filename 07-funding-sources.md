@@ -8,6 +8,7 @@ Most of our research funding in the lab is publicly-funded (government funding),
 * CFI-JELF Equipment Grant 2021-2024
 * ORF-RI Equipment Grant 2021-2024
 * Hallman Undergraduate Research Award 2023
+* AGE-WELL Graduate Scholarship in Technology and Aging 2023
 
 ## Stipends
 Graduate stipends are set by the department at $20,000/year for MSc students and $24,055/year for PhD students. Supplementary funding from the lab may be available depending on available grants and current projects.

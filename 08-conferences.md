@@ -13,44 +13,44 @@
 * **Ontario Exercise Physiology (OEP)**
     * Scope: Local graduate student meeting with emphasis on presentation skills and networking
     * Size: 100
-    * Next meeting: July 27, 2023, Kingston
-    * Abstract deadline: May 2023
+    * Next meeting: tbd, Hamilton
+    * Abstract deadline: May 2024
     * Known funding: None
 * **American College of Sports Medicine (ACSM)**
     * Scope: Very large exercise conference with international exposure
     * Size: 5000
-    * Next meeting: May 30-June 2, 2023
-    * Abstract deadline: Dec 20, 2022
+    * Next meeting: Boston, May 28-May 31, 2024
+    * Abstract deadline: Dec 20, 2023
     * Known funding: Society travel grants available
 * **North American Artery (NAA)**
     * Scope: Focused artery physiology conference
     * Size: 100
-    * Next meeting: June 16-17, 2023, Iowa
-    * Abstract deadline: March 2021
+    * Next meeting: June 2024, Iowa
+    * Abstract deadline: March 2024
     * Known funding: None
 * **ARTERY**
     * Scope: Focused artery physiology conference
     * Size: 100
-    * Next meeting: VIRTUAL MEETING
+    * Next meeting: tbd, October 2024
     * Abstract deadline: June
     * Known funding: Society travel grants available
-* **Experimental Biology (EB)**
-    * Scope: Very large physiology conference
-    * Size: 5000
-    * Next meeting: April 27-30, 2021 Virtual
-    * Abstract deadline: November
-    * Known funding: Society travel grants available
+* **APS Summit**
+    * Scope: Large physiology conference
+    * Size: 5000+
+    * Next meeting: Long Beach, CA, USA, April 4-7, 2024
+    * Abstract deadline: December 2023
+    * Known funding: Unknown
 * **International Ultrasonics Symposium**
     * Scope: Large ultrasound engineering conference
     * Size: 5000
-    * Next meeting: September 12-18, 2021 Virtual
-    * Abstract deadline: April 7
+    * Next meeting: Taipei, Taiwan, September 22-26, 2024
+    * Abstract deadline: April 2024
     * Known funding: Society travel grants available
 * **National Undergraduate Research Conference**
     * Scope: Undergraduate-only conference to present senior thesis studies
     * Size: 500
-    * Next meeting: April 12-14, 2021 Virtual
-    * Abstract deadline: March 2021
+    * Next meeting: April 2024
+    * Abstract deadline: March 2024
     * Known funding: AHS Undergraduate Research Experiential Fund (see below in Money)
 
 ## Policy on abstract submissions

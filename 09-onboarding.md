@@ -37,7 +37,7 @@ Jason will submit requests for new trainees to get set up with the drive, which 
 
 ## Free commercial software to download
 1. R and RStudio for statistics and graphing. You will need both R (the actual program), as well as RStudio (the free, user interface that makes R pretty). For both downloads and a mini-tutorial, I recommend checking out [swirlstats](https://swirlstats.com/students.html)
-2. [Mendeley desktop](https://www.mendeley.com/download-desktop-new/): For reference management during writing. **NOTE**: A recent update for Mac OSX Mojave is interfering with how the Word plug-in pulls citations from Mendeley. If you use a Mac, it may be best to explore other options.
+2. [Mendeley desktop](https://www.mendeley.com/download-desktop-new/): For reference management during writing. **NOTE**: A recent update for Mac OSX Mojave is interfering with how the Word plug-in pulls citations from Mendeley. If you use a Mac, it may be best to explore other options. **NOTE: Mendeley has changed as of 2023. We need to decide what a good alternative is**
 3. [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html) for simple statistical sample size calculations
 4. [Github Desktop](https://desktop.github.com/) + [Atom](https://atom.io/) text editor. To upload code you will need to make a github account. This will be the primary method of sharing and updating published code in the lab.
 5. [ImageJ](https://imagej.nih.gov/ij/download.html) for basic image analysis
