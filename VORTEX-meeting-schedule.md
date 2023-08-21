@@ -5,9 +5,9 @@ Full group lab meetings occur weekly, in person in BMH.
 | Week | Date | Topic | Lead |
 | ---- | ---- | ---- | ---- |
 | 1 | Sept 11 | Welcome, introductions, strategy plan | Jason |
-| 2 | Sept 18 | LBNP Construction | Jeremy & Sarah |
+| 2 | Sept 18 | LBNP Construction | Jeremy |
 | 3 | Sept 25 | Updates / state of research projects | Jason |
-| 5 | Oct 2 | CSEP Practice Presentations | Jeremy/Kailey/Chloe |
+| 5 | Oct 2 | CSEP Practice Presentations | Jeremy/Kailey/Chloe/Lauren |
 | 6 | Oct 9 | READING WEEK - AWAY FOR CSEP | -- |
 | 7 | Oct 16 | Jeremy Proposal Practice | Jeremy |
 | 8 | Oct 23 | Journal Club | Evi |
