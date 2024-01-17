@@ -10,3 +10,9 @@
 
 5. Athaide CE, Cohen JN, Stevens KA, Robertson AD, Au JS. 2023. Heating-induced peripheral limb microvascular vasodilation reduces arterial wave reflection. J Appl Physiol 134(5):1232-1239.
 * Open source data can be found on the [OSF page](https://osf.io/p9n2y/)
+
+6. Cohen JN, Samra R, Au JS. Evidence for an ‘arterial pump’ venous return mechanism in humans. Accepted to J Appl Physiol on October 5, 2023.
+
+7.	Bryans CG, Gopaul J, Athaide CE, Pugh CJA, Au JS. The influence of activity and sex on carotid artery longitudinal wall motion. Accepted to Appl Physiol Nutr Metab on Oct 31, 2023.
+
+8. Athaide CE, Robertson AD, Devries MC, Au JS. Seated elliptical exercise, but not periodic standing, alleviates sitting-induced changes to arterial wave reflections. Accepted to Med Sci Sports Exerc on Nov 30, 2023.

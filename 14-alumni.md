@@ -8,7 +8,8 @@ None yet.
 None yet.
 
 ## MSc trainees
-* Chloe Athaide, MSc '23: "*Consequences and countermeasures of sedentary behaviour on arterial wave reflection*"
+* Chloe Athaide, MSc '23: "*Consequences and countermeasures of sedentary behaviour on arterial wave reflection*". Laboratory Specialist at the University of Guelph-Humber
+* Kailey Stevens, MSc '23: "*Cardiac motion simulation in cadavers and carotid artery longitudinal wall behaviour*"
 
 ## Undergraduate trainees (KIN 431 and KIN 472 Projects)
 * Nidhi Bhagat (F20)
@@ -23,6 +24,7 @@ None yet.
 * Rosie Samra (W23)
 * Dara Al-Bakry (W23)
 * Ziba Raheemi (S23)
+* Amruta Manohar (F23)
 
 ## Career Ideas for Graduating Trainees
 There are many different career paths after training in the VORTEX Lab. Over the course of your time in the lab, you will gain valuable skills in research methodology, project management, exercise prescription and monitoring, basic coding, among many other experience-specific skills you will pick up along the way. You are encouraged to think about how you want to organize your lab experience based on your career aspirations. To give some perspective, here are a few of the careers that we've seen come up over the years:
@@ -35,10 +37,11 @@ There are many different career paths after training in the VORTEX Lab. Over the
 * CSEP-CEP Instructor-Examiner
 * Echocardiography technician
 * Research Coordinator
+* Laboratory instructor
 * Statistics Canada
 * Hitachi Medical
 * Medtronic
-* Intellijoint
+* Intellijoint Medical Education
 * AD Instruments
 * Hospital administration
 * Industry scientist (e.g., lululemon Whitespace, Nike, Pepsico)
