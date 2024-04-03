@@ -16,6 +16,7 @@ Within the lab, my main roles include finding grant money to keep the lights on,
 Jason's working policies:
 * I will acknowledge your emails within 24hrs on working days;
 * I request at least 2 weeks notice for writing / reviews requests from students. This includes paper drafts, thesis edits, reference letters, and scholarship applications;
+* I will occasionally be slow in responding to paper edits. I *expect* you to follow up and remind me of deadlines and lingering work - I will not take offense to multiple reminders.
 
 
 In addition to the above, I promise to:

@@ -9,7 +9,7 @@ None yet.
 
 ## MSc trainees
 * Chloe Athaide, MSc '23: "*Consequences and countermeasures of sedentary behaviour on arterial wave reflection*". Laboratory Specialist at the University of Guelph-Humber
-* Kailey Stevens, MSc '23: "*Cardiac motion simulation in cadavers and carotid artery longitudinal wall behaviour*"
+* Kailey Stevens, MSc '23: "*Cardiac motion simulation in cadavers and carotid artery longitudinal wall behaviour*". Research Assistant at the University of Calgary Cumming School of Medicine
 
 ## Undergraduate trainees (KIN 431 and KIN 472 Projects)
 * Nidhi Bhagat (F20)

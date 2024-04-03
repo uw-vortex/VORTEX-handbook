@@ -15,4 +15,6 @@
 
 7.	Bryans CG, Gopaul J, Athaide CE, Pugh CJA, Au JS. The influence of activity and sex on carotid artery longitudinal wall motion. Accepted to Appl Physiol Nutr Metab on Oct 31, 2023.
 
-8. Athaide CE, Robertson AD, Devries MC, Au JS. Seated elliptical exercise, but not periodic standing, alleviates sitting-induced changes to arterial wave reflections. Accepted to Med Sci Sports Exerc on Nov 30, 2023.
+8. Athaide CE, Robertson AD, Devries MC, Au JS. 2023. Seated elliptical exercise, but not periodic standing, alleviates sitting-induced changes to arterial wave reflections. Med Sci Sports Exerc in press. 10.1249/MSS.0000000000003367
+
+9. Al-Bakry D, Athaide CE, Pathmarajan R, Kuhn T, Middleton L, Au JS. Short-term vascular responses to spring and fall daylight savings time shifts. Accepted to Am J Physiol Heart Circ Physiol.

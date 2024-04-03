@@ -9,8 +9,6 @@ We will be using Microsoft Teams to keep a virtual lab chat to discuss issues, r
 
 *A Note on Emails*: Email habits and working hours are highly personal. Personally, I find email stress to be very real and very difficult (e.g., thinking about work in off hours), and will try not send students emails outside work hours to reduce your cognitive load.
 
-<!-- **Whatsapp**: We [will] also have a lab Whatsapp group for more casual communication with graduate students and staff. This includes more time-sensitive topics, or lab socials. We won't leave you out of the chat! -->
-
 Finally, we have an emergency contact list posted in the lab with everyone's personal contacts - stay in touch!
 
 ## Meetings
@@ -28,7 +26,7 @@ Full group lab meetings occur weekly. The general format of lab meetings are:
 *Unscheduled meetings*: Things come up! If you need to get in touch with Jason or another member of the lab, shoot them a message through Teams chat to see if they are online and they should be happy to have a quick chat.
 
 ### Mentorship Meetings
-In addition to weekly meetings and casual conversations, each student will be asked for one-on-one meetings with the PI once a month for a more formal mentorship structure. The goal of these meetings is to:
+In addition to weekly meetings and casual conversations, each student will be asked for one-on-one meetings with the PI for a more formal mentorship structure. The goal of these meetings is to:
 * talk through difficulties or roadblocks in the lab;
 * to identify and work on individual strengths and weaknesses; and,
 * to ensure an open line of communication between the student and the PI.

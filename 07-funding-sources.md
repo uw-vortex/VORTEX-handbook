@@ -14,17 +14,18 @@ Most of our research funding in the lab is publicly-funded (government funding),
 Graduate stipends are set by the department at $20,000/year for MSc students and $24,055/year for PhD students. Supplementary funding from the lab may be available depending on available grants and current projects.
 
 ## External awards
-It is expected that all students apply for relevant Canadian graduate student scholarships (i.e., CIHR, NSERC, or OGS). As they say, money begets money, and the success of lab trainees will only benefit other trainees (e.g., free up conference travel funds, research funds, lead to larger scholarships). It is important to note that success in acquiring external funding will not directly be added to your stipend - the funds first offset departmental costs of supporting graduate students (i.e., you won't be eligible for a teaching assistantship [TA]), and then you will receive additional funding to top you up to the minimums.
+It is expected that all students apply for relevant Canadian graduate student scholarships (i.e., CIHR, NSERC, or OGS). As they say, money begets money, and the success of lab trainees will only benefit other trainees (e.g., free up conference travel funds, research funds, lead to larger scholarships). It is important to note that success in acquiring external funding will not directly be added to your stipend - the funds first offset departmental costs of supporting graduate students and then you will receive additional funding to top you up to the minimums.
 
-For example, this is a rough breakdown for a PhD who secures $21,000 of NSERC funding with an original stipend of $24,055 (details may vary year-by-year and by specific provisions in [UW policies](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/current-students/internal-waterloo-awards/presidents-graduate-scholarship)):
+For example, this is a rough breakdown for a PhD who secures $21,000 of NSERC funding with an original stipend of $27,000 (details may vary year-by-year and by specific provisions in [UW policies](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/current-students/internal-waterloo-awards/presidents-graduate-scholarship)):
 
 | Contribution | Unfunded | Funded |
 | ---- | ---- | ---- |
-| TA | $16,266 | $0 |
-| RA | $7,789 | $0 |
+| TA | $15349 | $0 |
+| RA | $9,000 | $0 |
+| KHS | $651 | $0 |
 | NSERC | $0 | $21,000 |
 | PGS | $0 | $10,000 |
-| TOTAL | $24,055 | $31,000 |
+| TOTAL | $27,000 | $31,000 |
 
 
 **The ability to secure funding will not impact internal lab opportunities, available conference support, or result in preferential treatment.**

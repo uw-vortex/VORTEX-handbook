@@ -4,16 +4,16 @@ Full group lab meetings occur weekly, in person in BMH.
 
 | Week | Date | Topic | Lead |
 | ---- | ---- | ---- | ---- |
-| 1 | Jan 15 | State-of-the-lab | Jason |
-| 2 | Jan 22 | Journal Club: TBD  | TBD |
-| 3 | Jan 29 | PFD Raw Data Dive | Rebecca |
-| 5 | Feb 5 | Stats review | Jason |
-| 6 | Feb 12 | Journal Club: TBD | TBD |
-| 7 | Feb 19 | READING WEEK: Cancelled | -- |
-| 8 | Feb 26 | Why do science? | Jason/Maureen |
-| 9 | Mar 4 | Jeremy OKA Practice | Jeremy |
-| 10 | Mar 11 | TBD | TBD |
-| 11 | Mar 18 | Journal Club |  |
-| 11 | Mar 25 | Data Presentation: Eric | Eric |
-| 12 | Apr 1 | Data Presentation: Aida | Aida |
-| 13 | Apr 8 | KIN 432 Poster Session | Aida/Eric/Rebecca |
+| 1 | May 6 | Welcome and goal setting | Jason |
+| 2 | May 13 | Journal Club: Evi  | Evi |
+| 3 | May 20 | Updates | Jason |
+| 5 | May 27 | Journal Club: Manuela | Manuela |
+| 6 | June 3 | Baby Au: Probably cancelled | --- |
+| 7 | June 10 | Journal Club: Noor | Noor |
+| 8 | June 17 | OEP Practice Presentations | All |
+| 9 | June 24 | OEP: Cancelled | --- |
+| 10 | July 1 | Journal Club: Olena | Olena |
+| 11 | July 8 | Data Presentation: Jeremy | Jeremy |
+| 11 | July 15 | Data Presentation: Evi | Evi |
+| 12 | July 22 | UG Presentation: Noor | Noor |
+| 13 | July 29 | UG Presentations: Olena, Manuela | Olena/Manuela |
