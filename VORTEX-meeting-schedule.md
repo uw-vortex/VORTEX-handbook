@@ -1,4 +1,4 @@
-# Winter 2024 VORTEX Lab Meeting schedule
+# Spring/Summer 2024 VORTEX Lab Meeting schedule
 
 Full group lab meetings occur weekly, in person in BMH.
 
@@ -7,8 +7,8 @@ Full group lab meetings occur weekly, in person in BMH.
 | 1 | May 6 | Welcome and goal setting | Jason |
 | 2 | May 13 | Journal Club: Evi  | Evi |
 | 3 | May 20 | Updates | Jason |
-| 5 | May 27 | Journal Club: Manuela | Manuela |
-| 6 | June 3 | Baby Au: Probably cancelled | --- |
+| 5 | May 27 | Baby Au: Probably cancelled | --- |
+| 6 | June 3 | Journal Club: Manuela | Manuela |
 | 7 | June 10 | Journal Club: Noor | Noor |
 | 8 | June 17 | OEP Practice Presentations | All |
 | 9 | June 24 | OEP: Cancelled | --- |
