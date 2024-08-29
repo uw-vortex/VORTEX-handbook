@@ -13,10 +13,11 @@ You can access this course by logging into LEARN and clicking 'Self Registration
 Only pre-approved personnel will have access to the on-campus lab facilities to limit unnecessary risk exposure during the term. A list of approved members can be found in the Lab Safety Plan on the V: drive.
 
 There is an occupancy limit of *two people* in the lab at any given time. Access will be tracked through the lab calendar, hosted on Outlook.
--->
+
 
 ## Working along during COVID-19
 Working Alone in the laboratory is a possibility, but it is unlikely that you would be the only person in the building during designated hours (08:00-18:00h). There will likely be other individuals working on the 2nd floor of BMH (physiology), or in the biomechanics labs on the 1st floor of BMH. Emergency contacts on the UW campus are posted on the lab cork board (Jason Au, Emma Dare, Campus Security, EMS, 911). There are no tasks in the laboratory that are considered dangerous for working alone.
+-->
 
 ## Ramp-down and Temporary Shut-down procedures
 In the event of a lab shutdown (i.e., campus closure due to Provincial lockdown), all in-person lab activities must cease. The following needs to occur to safely shut down the lab:

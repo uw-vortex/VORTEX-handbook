@@ -1,19 +1,21 @@
-# Spring/Summer 2024 VORTEX Lab Meeting schedule
+# Fall 2024 VORTEX Lab Meeting schedule
 
 Full group lab meetings occur weekly, in person in BMH.
 
 | Week | Date | Topic | Lead |
 | ---- | ---- | ---- | ---- |
-| 1 | May 6 | Welcome and goal setting | Jason |
-| 2 | May 13 | Journal Club: Evi  | Evi |
-| 3 | May 20 | Updates | Jason |
-| 5 | May 27 | Baby Au: Probably cancelled | --- |
-| 6 | June 3 | Journal Club: Manuela | Manuela |
-| 7 | June 10 | Journal Club: Noor | Noor |
-| 8 | June 17 | OEP Practice Presentations | All |
-| 9 | June 24 | OEP: Cancelled | --- |
-| 10 | July 1 | Journal Club: Olena | Olena |
-| 11 | July 8 | Data Presentation: Jeremy | Jeremy |
-| 11 | July 15 | Data Presentation: Evi | Evi |
-| 12 | July 22 | UG Presentation: Noor | Noor |
-| 13 | July 29 | UG Presentations: Olena, Manuela | Olena/Manuela |
+| 1 | Sept 2 | Welcome meeting and goal setting | Jason |
+| 2 | Sept 9 | Tania data presentation | Tania |
+| 3 | Sept 16 | Journal Club: Jess | Jess |
+| 5 | Sept 23 | Journal Club: Skye | Skye |
+| 6 | Sept 30 | ARTERY Practice presentations | Jeremy and Evi |
+| 7 | Oct 7 | Undergrad Research Questions (Jeremy and Evi away for ARTERY) | Tania |
+| 8 | Oct 14 | Cancelled: Reading Week | --- |
+| 9 | Oct 21 | Journal Club: Sarah | Sarah |
+| 10 | Oct 28 | Journal Club: Sydney | Olena |
+| 11 | Nov 4 | Jeremy: Vector flow analysis overview | Jeremy |
+| 11 | Nov 11 | Data: How to use CardieX equipment | Jess & Tania |
+| 12 | Nov 18 | General Updates (Tania away for CSEP) | Jeremy |
+| 13 | Nov 25 | Evi: Proposal practice | Evi |
+| 14 | Dec 2 | Big Updates + Presentations: Sydney, Skye, Sarah (Jason returns) | Undergrads |
+| 15 | Dec 9 | Term debrief at [undisclosed] | Jason |

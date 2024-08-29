@@ -9,6 +9,7 @@ Most of our research funding in the lab is publicly-funded (government funding),
 * ORF-RI Equipment Grant 2021-2024
 * Hallman Undergraduate Research Award 2023
 * AGE-WELL Graduate Scholarship in Technology and Aging 2023
+* CardieX Arterial Research Initiative 2024
 
 ## Stipends
 Graduate stipends are set by the department at $20,000/year for MSc students and $24,055/year for PhD students. Supplementary funding from the lab may be available depending on available grants and current projects.
@@ -70,11 +71,15 @@ You are more than welcome to candidly talk to Jason about finance options and wo
 **Graduate Studies and Postdoctoral Affairs** offer some funds to support student travel up to $500. For more information, see the [Graduate Studies website](https://uwaterloo.ca/forms/graduate-studies/graduate-studies-research-travel-assistantship-application).
 There are rolling deadlines on April 1, August 1, and December 1. Make sure to submit these applications **as early as possible**, as these funds run on a first-come first-serve basis.
 
+*Note from Jason*: There is a particular application sequence to maximize funding support for travel. Please use the following steps to secure funds from GSPA, the Faculty, and KHS.
+1. First apply for the [Graduate Student Research Dissemination Award](https://uwaterloo.ca/forms/graduate-studies/graduate-student-research-dissemination-award-application-0) with sign off from Jason
+2. After approval of the $500 award, apply for Faculty and Departmental travel assistance. The form can be found on the KHS Graduate Community Group on LEARN under: Table of Contents > KHS Forms > Travel/Expense Claim and Conference Information > Department/Faculty Conference Funding Application Form. Send this completed/signed form to the KHS Graduate Coordinator along with a copy of your GSRDA approval email from GSPA.
+
 ### Departmental sources
-**Applied Health Sciences** offers some funds to support student travel, up to $200 for MSc students, and up to $300 for PhD students. For more information, see the [AHS website](https://uwaterloo.ca/applied-health-sciences/current-graduates/policies-procedures/travel-assistance-and-travel-claims).
+**Health** offers some funds to support student travel, up to $200 for MSc students, and up to $300 for PhD students. For more information, see the [AHS website](https://uwaterloo.ca/applied-health-sciences/current-graduates/policies-procedures/travel-assistance-and-travel-claims).
 There are rolling deadlines on April 1, August 1, and December 1.
 
-**Applied Health Sciences** also has the Undergraduate Research Experiential Fund to help undergraduates travel to present their work. More information can be found on the [AHS website](https://uwaterloo.ca/applied-health-sciences/current-undergraduates/funding-awards).
+**Health** also has the Undergraduate Research Experiential Fund to help undergraduates travel to present their work. More information can be found on the [AHS website](https://uwaterloo.ca/applied-health-sciences/current-undergraduates/funding-awards).
 
 ### Lab sources
 The availability of lab funding will change year-to-year, although I value conference experience for graduate students and will try to fund at least one conference per year for graduate trainees (e.g., at minimum OEP or CSEP)

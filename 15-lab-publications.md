@@ -11,10 +11,12 @@
 5. Athaide CE, Cohen JN, Stevens KA, Robertson AD, Au JS. 2023. Heating-induced peripheral limb microvascular vasodilation reduces arterial wave reflection. J Appl Physiol 134(5):1232-1239.
 * Open source data can be found on the [OSF page](https://osf.io/p9n2y/)
 
-6. Cohen JN, Samra R, Au JS. Evidence for an ‘arterial pump’ venous return mechanism in humans. Accepted to J Appl Physiol on October 5, 2023.
+6. Cohen JN, Samra R, Au JS. 2023. Evidence for an ‘arterial pump’ venous return mechanism in humans. J Appl Physiol 135(5):1120-1125.
 
-7.	Bryans CG, Gopaul J, Athaide CE, Pugh CJA, Au JS. The influence of activity and sex on carotid artery longitudinal wall motion. Accepted to Appl Physiol Nutr Metab on Oct 31, 2023.
+7.	Bryans CG, Gopaul J, Athaide CE, Pugh CJA, Au JS. 2024. The influence of activity and sex on carotid artery longitudinal wall motion. Appl Physiol Nutr Metab 49(3):385-394.
 
-8. Athaide CE, Robertson AD, Devries MC, Au JS. 2023. Seated elliptical exercise, but not periodic standing, alleviates sitting-induced changes to arterial wave reflections. Med Sci Sports Exerc in press. 10.1249/MSS.0000000000003367
+8. Athaide CE, Robertson AD, Devries MC, Au JS. 2024. Seated elliptical exercise, but not periodic standing, alleviates sitting-induced changes to arterial wave reflections. Med Sci Sports Exerc 56(5):953-962.
 
-9. Al-Bakry D, Athaide CE, Pathmarajan R, Kuhn T, Middleton L, Au JS. Short-term vascular responses to spring and fall daylight savings time shifts. Accepted to Am J Physiol Heart Circ Physiol.
+9. Al-Bakry D, Athaide CE, Pathmarajan R, Kuhn T, Middleton L, Au JS. 2024. Short-term vascular responses to spring and fall daylight savings time shifts. Am J Physiol Heart Circ Physiol 326(5):H1138-H1145.
+
+10. Cohen JN, Hedge ET, Greaves DK, Robertson AD, Nahas H, Yu ACH, Petersen LG, Au JS. Characterization of internal jugular vein region-specific distension and flow patterns during progressive volume shifting. Accepted to J Appl Physiol on May 28, 2024.

@@ -105,7 +105,7 @@ FROM THE STUDENTS: We expect our undergraduate volunteer peers to:
 * Be mindful of each other’s commitments and provide support or guidance where necessary.
 
 
-## Research Staff (RA, Co-op, etc.)
+## Research Staff (Project Managers, RA, Co-op, etc.)
 Within the lab, research staff should have a more structured work week and are formally working as paid university employees. While hours of work will depend on the contract, it is best practice to be present in the lab or be available during conventional working hours (between 8am-6pm, depending on hours). While specific roles will differ, research staff are expected to work towards their assigned projects as well as support other students in the lab with your particular expertise.
 
 FROM THE STUDENTS: We expect our research staff to:

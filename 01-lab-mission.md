@@ -6,3 +6,4 @@ The mission of the lab is *"To better understand how and why vascular disease is
 2020: Lab opens at University of Waterloo!\
 2021: First graduate students arrive\
 2023: First MScs graduated!\
+2024: All start-up equipment received (finally)\

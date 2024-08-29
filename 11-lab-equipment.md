@@ -11,6 +11,8 @@ This resource provides an overview of the equipment in the lab, directions to fi
 
 **Vivid iq**: This clinical ultrasound is a small portable unit that is the workhorse of the lab. We have linear and sector probes for vascular and cardiac imaging. Extremely versatile, the Vivid is mostly used to measure arterial and venous diameters and blood velocities using B-mode, Doppler, and Duplex imaging.
 
+**S70N**: This clinical ultrasound is a larger non-portable unit that has linear and sector probes for vascular and cardiac imaging.
+
 **ProbeFix Dynamic**: This custom probe holder from Usono is designed to work with a variety of ultrasound probes during exercise. We are excited to start working with this equipment and will be happy to share the accuracy and feasibility of the device in the next few years.
 
 ## Pulse Wave Analysis
@@ -20,3 +22,10 @@ This resource provides an overview of the equipment in the lab, directions to fi
 **SpecTat**: We use an in-house vascular speckle-tracking program for arterial wall kinematic analyses, and was developed in MATLAB by Jimmy Tat, MD, in 2013. In brief, this program identifies up to two rectangular regions of interest and tracks pixel positions over time to measure 2D wall displacement (axial and radial directions). Speckle-tracking is one of the only methods to measure carotid artery longitudinal wall motion and is a cornerstone of our post-processing tools in the lab.
 
 **FloWave**: We have chosen to use an open-source edge-detection software to analyze arterial diameters in the lab. FloWave is coded in MatLab and is a versatile program that can be customized for different ultrasound models. Like any edge-detection software, it searches for high contrast borders between the arterial lumen and intima-media complex to denote wall boundaries. FloWave differs from commercially-available programs because it is FREE and the lab has the necessary programming expertise to run in-house analysis and post-processing of arterial diameter waveform information. The software has been validated on arterial phantoms, with additional details found in Coolbaugh et al. (2016) J Appl Physiol 121(4):849-857 https://doi.org/10.1152/japplphysiol.00819.2015.
+
+**EchoPAC**: A staple of ultrasound management, EchoPAC software houses our archive of ultrasound studies and allows for offline analysis of vessel diameters, blood velocity traces, and a suite of cardiac analyses through the QAnalaysis and 2D Strain packages in addition to standard Simpson's Biplane analysis.
+
+## Wearables
+**Hexoskin**: We use wearable smart shirts to collect ambulatory cardiorespiratory data. Hexoskin devices have integrated single-lead ECG, two respiratory bands, and a tri-axial accelerometer that collect continuous data during activities of daily living or sports. We are using previous work from the Hughson lab to estimate oxygen consumption in free-living conditions from Hexoskin outputs.
+
+**CONNEQT Pulse**: This new device from CardieX (AtCor) allows at-home monitoring of pulse wave characteristics.

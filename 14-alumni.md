@@ -25,6 +25,11 @@ None yet.
 * Dara Al-Bakry (W23)
 * Ziba Raheemi (S23)
 * Amruta Manohar (F23)
+* Lauren Jutlah (22-24)
+* Rebecca Sole (W24)
+* Eric Dong (W24)
+* Aida Zaheer (W24)
+* Olena Decyk (S24)
 
 ## Career Ideas for Graduating Trainees
 There are many different career paths after training in the VORTEX Lab. Over the course of your time in the lab, you will gain valuable skills in research methodology, project management, exercise prescription and monitoring, basic coding, among many other experience-specific skills you will pick up along the way. You are encouraged to think about how you want to organize your lab experience based on your career aspirations. To give some perspective, here are a few of the careers that we've seen come up over the years:
