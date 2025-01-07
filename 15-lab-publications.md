@@ -19,4 +19,10 @@
 
 9. Al-Bakry D, Athaide CE, Pathmarajan R, Kuhn T, Middleton L, Au JS. 2024. Short-term vascular responses to spring and fall daylight savings time shifts. Am J Physiol Heart Circ Physiol 326(5):H1138-H1145.
 
-10. Cohen JN, Hedge ET, Greaves DK, Robertson AD, Nahas H, Yu ACH, Petersen LG, Au JS. Characterization of internal jugular vein region-specific distension and flow patterns during progressive volume shifting. Accepted to J Appl Physiol on May 28, 2024.
+10. Cohen JN, Hedge ET, Greaves DK, Robertson AD, Nahas H, Yu ACH, Petersen LG, Au JS. 2024. Characterization of internal jugular vein region-specific distension and flow patterns during progressive volume shifting. J Appl Physiol 137(1):32-41
+
+11. Bryans CG, Cohen JN, Athaide CE, Pugh CJA, Au JS. 2024. Impact of scanning plane on carotid artery longitudinal wall motion. Ultrasound Med Biol 50(12):1849-1853.
+
+12.	Cohen JN, Jasiak J, Nahas H, Yu ACH, Au JS. 2024. Multi-directional blood flow in the femoral artery via vector flow imaging: doppler ultrasound imaging insights. Am J Physiol Heart Circ Physiol 327(6):H1267-1473.
+
+13. Cohen JN, Sole RT, Zafiris E, Au JS. 2025. Efficacy of a hands-free vascular ultrasound probe holder in active and inactive limbs during cycling exercise. J Appl Physiol online in-press.
