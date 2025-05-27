@@ -25,4 +25,6 @@
 
 12.	Cohen JN, Jasiak J, Nahas H, Yu ACH, Au JS. 2024. Multi-directional blood flow in the femoral artery via vector flow imaging: doppler ultrasound imaging insights. Am J Physiol Heart Circ Physiol 327(6):H1267-1473.
 
-13. Cohen JN, Sole RT, Zafiris E, Au JS. 2025. Efficacy of a hands-free vascular ultrasound probe holder in active and inactive limbs during cycling exercise. J Appl Physiol online in-press.
+13. Cohen JN, Sole RT, Zafiris E, Au JS. 2025. Efficacy of a hands-free vascular ultrasound probe holder in active and inactive limbs during cycling exercise. J Appl Physiol 138(2):389-396.
+
+14. Jutlah LBL, Cohen JN, Au JS. 2025. Cardiorespiratory responses to under-desk elliptical trainers. Accepted to Sport Science for Health on May 5, 2025.
