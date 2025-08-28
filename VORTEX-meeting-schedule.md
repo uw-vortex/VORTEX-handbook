@@ -1,19 +1,19 @@
-# Spring/Summer 2025 VORTEX Lab Meeting schedule
+# Fall 2025 VORTEX Lab Meeting schedule
 
 Full group lab meetings occur weekly, in person in BMH.
 
 | Week | Date | Topic | Lead |
 | ---- | ---- | ---- | ---- |
-| 1 | May 7 | ADInstruments brainstorming | Jason |
-| 2 | May 14 | CONNEQT Pulse demo | Jess |
-| 3 | May 21 | Journal Club: Sophie | Sophie |
-| 5 | May 28 | Jeremy VFI Analysis tutorial | Jeremy |
-| 6 | June 4 | NSERC Review and Brainstorming | Jason |
-| 7 | June 11 | Journal Club: Vanshi | Vanshi |
-| 8 | June 18 | OEP Practice Presentations | All |
-| 9 | June 25 | OEP Week - No meeting | --- |
-| 10 | July 2 | Evi Practice Presentation | Evi |
-| 11 | July 9 | Jason is getting married - no meeting! | --- |
-| 11 | July 16 | Skye data presentation | Skye |
-| 12 | July 23 | Jess data presentation | Jess |
-| 13 | July 30 | Sophie data presentation | Sophie |
+| 1 | Sept 8 | Welcome and overview of term | Jason |
+| 2 | Sept 15 | Undergraduate paper rounds | Undergrads |
+| 3 | Sept 22 | Journal Club | Jess |
+| 5 | Sept 29 | Undergraduate method rounds | Undergrads |
+| 6 | Oct 6 | Practice CSEP Presentations | Skye and Jeremy |
+| 7 | Oct 13 | READING WEEK: No meeting | --- |
+| 8 | Oct 20 | Present validity and reliability statistics | Sara, Hayley, Isabella, Lea |
+| 9 | Oct 27 | Journal Club | Olena |
+| 10 | Nov 3 | TBD | Jason |
+| 11 | Nov 10 | Journal Club | Hafsa |
+| 11 | Nov 17 | Jeremy Thesis practice | Jeremy |
+| 12 | Nov 24 | Undergrad presentations: Proposals | Sara, Hayley, Isabella, Lea |
+| 13 | Dec 1 | Undergrad presentations: Reflections | Hafsa, Nelushi, Olena |

@@ -80,7 +80,8 @@ As coursework students, you are expected to do the following:
 * Present research findings at the end of the term during a team meeting;
 * Plan and schedule regular meetings with Jason to check in;
 * Participate actively during team meetings; and,
-* Plan for a rough time commitment of no more than 6-8 hours/week for 12 weeks of the term (recommended by the Department to roughly manage your course load).
+* Plan for a rough time commitment of no more than 8-10 hours/week for 12 weeks of the term (recommended by the Department to roughly manage your course load).
+* Adequately prepare your lab skills to collect human data in advance of official data collection and to stay on top of key papers related to your work assigned by the PI throughout the term.
 
 FROM THE STUDENTS: We expect our courseware student peers to:
 * Take initiative - you have to be self-motivated to secure your interests and don’t be passive about your objectives;
