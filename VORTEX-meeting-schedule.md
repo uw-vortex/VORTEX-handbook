@@ -1,19 +1,20 @@
-# Fall 2025 VORTEX Lab Meeting schedule
+# Winter 2026 VORTEX Lab Meeting schedule
 
 Full group lab meetings occur weekly, in person in BMH.
 
 | Week | Date | Topic | Lead |
 | ---- | ---- | ---- | ---- |
-| 1 | Sept 8 | Welcome and overview of term | Jason |
-| 2 | Sept 15 | Undergraduate paper rounds | Undergrads |
-| 3 | Sept 22 | Journal Club | Jess |
-| 5 | Sept 29 | Undergraduate method rounds | Undergrads |
-| 6 | Oct 6 | Practice CSEP Presentations | Skye and Jeremy |
-| 7 | Oct 13 | READING WEEK: No meeting | --- |
-| 8 | Oct 20 | Present validity and reliability statistics | Sara, Hayley, Isabella, Lea |
-| 9 | Oct 27 | Journal Club | Olena |
-| 10 | Nov 3 | TBD | Jason |
-| 11 | Nov 10 | Journal Club | Hafsa |
-| 11 | Nov 17 | Jeremy Thesis practice | Jeremy |
-| 12 | Nov 24 | Undergrad presentations: Proposals | Sara, Hayley, Isabella, Lea |
-| 13 | Dec 1 | Undergrad presentations: Reflections | Hafsa, Nelushi, Olena |
+| 1 | Jan 5 | State of the lab | Jason |
+| 2 | Jan 12 | Journal club: Jason | Jason |
+| 3 | Jan 19 | Data presentation: Hayley | Hayley |
+| 5 | Jan 26 | Jess Proposal Practice | Jess |
+| 6 | Feb 2 | Data presentation Sara | Sara |
+| 7 | Feb 9 | Data presentation: Lea | Lea |
+| 8 | Feb 16 | READING WEEK: No meeting | --- |
+| 9 | Feb 23 | Joint lab meeting with Williams Lab | Jason & Jenny |
+| 10 | Mar 2 | Data presentation: Jess | Jess |
+| 11 | Mar 9 | Data presentation: Isabella (Note: Okanagan conference) | Isabella |
+| 11 | Mar 16 | Practice Presentations for NURC | All |
+| 12 | Mar 23 | Updates / NURC | All |
+| 13 | Mar 30 | HOLIDAY: No meeting | --- |
+| 14 | Apr 6 | Final presentations | Sara and Hayley |
