@@ -26,11 +26,11 @@ Full group lab meetings occur weekly. The general format of lab meetings are:
 *Unscheduled meetings*: Things come up! If you need to get in touch with Jason or another member of the lab, shoot them a message through Teams chat to see if they are online and they should be happy to have a quick chat.
 
 ### Mentorship Meetings
-In addition to weekly meetings and casual conversations, each student will be asked for one-on-one meetings with the PI for a more formal mentorship structure. The goal of these meetings is to:
+In addition to weekly meetings and casual conversations, each student will have the ability to schedule meetings with the PI for a more formal mentorship structure, when needed. The goal of these meetings is to:
 * talk through difficulties or roadblocks in the lab;
 * to identify and work on individual strengths and weaknesses; and,
 * to ensure an open line of communication between the student and the PI.
-The structure of these meetings will vary between students, and will be shaped by both the student and PI over time.
+The structure and timing of these meetings will vary between students, and will be shaped by both the student and PI over time.
 **The first mentorship meeting is more structured and will follow the steps outlined in the Onboarding document**
 
 ## Writing drafts with Jason
@@ -41,15 +41,18 @@ Jason is more than willing to help review your term papers, literature reviews, 
 * **Don't be alarmed if the document comes back heavily marked with grammar suggestions, sentence re-writes, and many small comments, particularly in your first few papers - this does not mean your paper is terrible! Jason cares about your work and wants to provide as many suggestions as possible to improve your paper. No one really formally learns writing during undergrad and you aren't expected to come into the lab as an English or science writing expert. You are encouraged to consider these edits and 'learn-by-revision' to incorporate writing tips and style into your next paper.**
 
 In addition, Jason has some particular writing quirks that he asks you to adopt:
+* Format documents before sending them to Jason!
 * In general, Jason prefers Arial 12pt font, justified 1" margins, double spaced, 6 point space gap between paragraphs with no tabs, and single spaces after periods - you are welcome to challenge him that other formats are superior, but good luck :)
 * When writing research papers, Jason will ask you to aim for a 1-2 page introduction, 4-6 page discussion, but whatever length methods and results necessary to communicate the findings.
 * Some general writing tips:
   * Try to avoid starting sentences with leading clauses (e.g., However,... Given the reduced heart rate,... Rather than attribute the findings to X,...);
   * Break up lengthy written sections with subheadings;
   * Try to avoid non-specific adjectives (e.g., there was a large effect of exercise vs exercise induced a 10% increase in fitness);
-  * First person writing is okay (i.e., we observed...); and
-  * Oxford commas everywhere please!
-  * To enhance international reader experience, try to avoid colloquialisms and English language idioms that are less accessible for those whose primary language is not English (e.g., all in all, on the other hand, nowadays).
+  * First person writing is okay (i.e., we observed...);
+  * Use oxford commas everywhere please!;
+  * Don't use the word 'significantly' as an adjective/adverb as the listed p value indicates that information;
+  * Please indicate body mass (of which the unit is kg) and not body weight (of which the unit is Newtons);
+  * To enhance international reader experience, try to avoid colloquialisms and English language idioms that are less accessible for those whose primary language is not English (e.g., all in all, on the other hand, nowadays); and,
   * For Undergraduate trainees that have made it this far in the Handbook, I will give you an additional 5% to your final paper if it is formatted to the specifications above, and you use the following email subject line when you submit your report: "I like justified paragraphs"
 
 ## Presentation Slide Guidelines

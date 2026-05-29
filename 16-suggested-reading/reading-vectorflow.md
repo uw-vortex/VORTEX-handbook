@@ -4,3 +4,4 @@
 * Jensen et al. 2016. Ultrasound vector flow imaging - Part II: Parallel systems. IEEE T-UFFC 63:1722:1732
 * Yiu et al. 2014. Vector projectile imaging: time-resolved dynamic visualization of complex flow patterns. Ultrasound Med Biol 40:2295-2309.
 * Pedersen et al. 2014. Novel flow quantification of the carotid bulb and the common carotid artery with vector flow ultrasound. Ultrasound Med Biol 40:2700-2706.
+* Yiu BYS, Yu AC. 2016. Least-squares multi-angle doppler estimators for plane-wave vector flow imaging. IEEE TUFFC 63(11):1733-1744.

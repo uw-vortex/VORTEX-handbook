@@ -2,17 +2,19 @@
 When possible, we love to showcase our success! This page will periodically update with past formal lab members (i.e., undergraduate coursework students, and full graduate research students), and when possible, their current occupations.
 
 ## Research Staff
-* Tania Pereira
+* Tania Pereira, '24
 
 ## Postdoctoral Fellows
 None yet.
 
 ## PhD trainees
-None yet.
+* Jeremy Cohen, PhD '25: "*Advanced venous flow dynamics and return mechanisms during physiological stress and aging*".
 
 ## MSc trainees
 * Chloe Athaide, MSc '23: "*Consequences and countermeasures of sedentary behaviour on arterial wave reflection*". Laboratory Specialist at the University of Guelph-Humber
 * Kailey Stevens, MSc '23: "*Cardiac motion simulation in cadavers and carotid artery longitudinal wall behaviour*". Research Assistant at the University of Calgary Cumming School of Medicine
+* Evi Zafiris, MSc '25: "*The effect of jaw clenching on extracranial and intracranial blood flow*".
+* Carol Bryans, MSc '25 (co-supervised by Richard Hughson): "*Hormonal regulation and plasma volume during 60-days of head-down bed rest with exercise during artificial gravity*".
 
 ## Undergraduate trainees (KIN 431 and KIN 472 Projects)
 * Nidhi Bhagat (F20)
@@ -33,10 +35,17 @@ None yet.
 * Eric Dong (W24)
 * Aida Zaheer (W24)
 * Olena Decyk (S24)
+* Hayley So (25-26)
+* Vanshi Patel (S25)
+* Hafsa Khan (F25)
+* Isabella Wong (W26)
+* Lea Nguyen (W26)
+* Sara Ahi (W26)
 
 ## Career Ideas for Graduating Trainees
 There are many different career paths after training in the VORTEX Lab. Over the course of your time in the lab, you will gain valuable skills in research methodology, project management, exercise prescription and monitoring, basic coding, among many other experience-specific skills you will pick up along the way. You are encouraged to think about how you want to organize your lab experience based on your career aspirations. To give some perspective, here are a few of the careers that we've seen come up over the years:
 * GE Ultrasound specialist
+* Boston Scientific product applications
 * Wearable technology
 * Education
 * Medicine

@@ -4,3 +4,6 @@
 * [Textbook] Snapshots of Hemodynamics (borrow from Jason)
 * Chirinos & Segers 2010 Noninvasive Evaluation of Left Ventricular Afterload. Hypertension 56:555-562.
 * Avolio, Nichols & O'Rourke 1984. Exaggerated wave reflection in the kangaroo simulates arterial counterpulsation. AJP-Reg 15:R267-270.
+* Westerhof et al. 1972. Forward and backward waves in the arterial system. Cardiovascular Research 6(6):648-656).
+* Murgo et al. 1981. Manipulation of ascending aortic pressure and flow wave reflections with the Valsalva maneuver: relationship to input impedence. Circulation 63(1):122-132.
+* Nichols & Edwards 2001. Arterial elastance and wave reflection augmentation of systolic blood pressure: Deleterious effects and implications for therapy. J Cardiovasc Pharm Ther 6(1):5-21.

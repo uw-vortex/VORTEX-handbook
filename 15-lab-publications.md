@@ -27,6 +27,10 @@
 
 13. Cohen JN, Sole RT, Zafiris E, Au JS. 2025. Efficacy of a hands-free vascular ultrasound probe holder in active and inactive limbs during cycling exercise. J Appl Physiol 138(2):389-396.
 
-14. Jutlah LBL, Cohen JN, Au JS. 2025. Cardiorespiratory responses to under-desk elliptical trainers. Accepted to Sport Science for Health on May 5, 2025.
+14. Jutlah LBL, Cohen JN, Au JS. 2025. Cardiorespiratory responses to under-desk elliptical trainers. Sport Sci for Health 21:3575-3578.
 
-15. Cohen JN, Au JS. The Blueprint: Contemporary venous physiology and measurement. Accepted to Am J Physiol Heart Circ Physiol.
+15. Cohen JN, Au JS. The Blueprint: Contemporary venous physiology and measurement. Am J Physiol Heart Circ Physiol 329(4):H801-H814.
+
+16. Zaheer A, Peckett K, Pereira TJ, Acker S, Au JS. 2025 The consequences of high-flexion postures on arterial wave reflections. Accepted to J Human Hypertens on October 7, 2025.
+
+17. Ling SHT, Cohen JN, Pereira TJ, Au JS. 2025. Lower limb hemodynamics during lower body negative pressure and the impact of pre-conditioning exercise. Accepted to Appl Physiol Nutr Metab on October 8, 2025.

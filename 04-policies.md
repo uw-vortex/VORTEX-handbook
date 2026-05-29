@@ -50,6 +50,7 @@ You can pick your friends, but you can't pick your labmates! Part of the challen
 * **RSVP right away**
 * **Talk about authorship up-front**
 * **Ask before you borrow equipment**
+* **Show up to Proposals and Defenses**
 * **Be cognizant of shared lab time and resources**
 * **Keep notes about method successes and failures that may help others**
 * **Don't hold onto small offences**

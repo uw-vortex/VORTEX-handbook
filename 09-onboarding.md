@@ -5,7 +5,7 @@ You will need the following access cards and keys to work in the lab:
 * [WatCard](https://uwaterloo.ca/watcard/) (Student Card)
 * FOB for hallways: From Kin admin (grad students only)
 * Keys: From Kin admin (grad students only)
-* UW Virtual Private Network (VPN): UW Instructions for [Macs](https://uwaterloo.ca/applied-health-sciences-computing/connecting-campus-vpn-mac) and [PCs](https://wiki.uwaterloo.ca/display/ISTKB/Install+the+VPN+client+on+Windows+OS+-+applies+to+IE%2C+Edge%2C+Firefox%2C+and+Chrome)
+* UW Virtual Private Network (VPN): A VPN is needed to access network folders and services that require a UW IP address. See the [Atlassian portal](https://uwaterloo.atlassian.net/wiki/spaces/ISTSERV/pages/42588307544/About+the+Virtual+Private+Network+VPN#using-the-vpn) for a more detailed description. For installation, see UW Instructions for [Macs](https://uwaterloo.atlassian.net/wiki/spaces/HEALTHHELP/pages/43076944057/Map+a+Network+Drive+Mac) and [PCs](https://uwaterloo.atlassian.net/wiki/spaces/HEALTHHELP/pages/43077337243/Map+a+Network+Drive+Windows)
 
 ## Change your email address to something friendly
 1. Go to [WatIAM User Access](https://uwaterloo.ca/watiam/)
@@ -48,6 +48,8 @@ It is expected that during your time in the VORTEX Lab, you will have to learn s
 * MSc students will be expected to create new scripts to run custom analysis, or edit existing scripts to deal with data in new formats specific to their thesis studies. MSc students are also expected to be able to code their statistics and graphs using RStudio.
 * PhD students will be expected to do all of the above and act as primary mentors to junior students learning the basic steps. Depending on career aspirations and learning objectives, I trust that PhD students will decide at what level of coding they want to push themselves. There are diminishing returns to learn to code if you do not intend to use those skills in a future career, so I only ask you learn enough to promote open science in the VORTEX Lab. I do not expect PhD students to learn to make packages / full programs / GUIs.\
 
+An excellent starting point will be the VORTEX Coding Bootcamp Tasklist that will be distributed in the first month of term.
+
 ### MATLAB:
 To begin your MATLAB learning journal, here are some excellent resources to review prior to working in the lab:
 * Borrow Jason's copy of 'An Introduction to Programming and Numerical Methods in MATLAB' by SR Otto & JP Denier;
@@ -63,6 +65,9 @@ Here are some resources to get started with R and RStudio
 * [swirlstats](https://swirlstats.com/) is a great free resource to learn some R basics. The program works 'inline', so you just follow the prompts in R itself and type along.
 * [TidyTuesday](https://github.com/rfordatascience/tidytuesday): As with MATLAB, the best way to learn is to start practicing. There is a weekly challenge on Twitter to plot some socially interesting datasets (e.g., Australian fires, college tuition, animal crossing, marble races) using the ggplot method. I encourage you to engage with this community to try out your skills, read code from other participants, and generate some ideas for neat data presentation in the lab.
 
+### GitHub Team
+We use [GitHub](https://github.com/) as a public platform to manage the Lab Handbook, mature scripts, and public projects that might better serve the research community. Graduate trainees are expected to engage with this platform to share their completed code and any side projects that might be of interest to the wider community. Please request Jason add you as a member to the VORTEX organization to give you permissions within the team to start working with internal scripts.
+
 ## Supervisory Onboarding
 At the start of every studentship (undergrad and grad), students will meet one-on-one with Jason in the first month of term to establish some core values and expectations for mentorship throughout their time in the lab. In this meeting we will discuss:
 * Expected response times for communications;
@@ -77,6 +82,7 @@ At the start of every studentship (undergrad and grad), students will meet one-o
 * Publishing and authorship expectations;
 * Expectations to apply for external funding; and,
 * Responsibility for research ethics.
+In addition, graduate students are expected to engage with the [CIHR Individual Development Plan (IDP)](https://cihr-irsc.gc.ca/e/50516.html). Forms will be shared at the initial supervisory meeting and will be expected to be completed within the first month.
 
 ## Suggested Courses
 If you are interested in formalizing your training, we suggest looking into the following undergraduate and graduate courses that are related to day-to-day experiences in the lab:

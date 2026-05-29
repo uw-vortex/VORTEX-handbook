@@ -67,3 +67,6 @@ After publishing a few articles, trainees will start to receive 'predatory journ
 * Are there excessive fees for publication?
 * Are there unnecessary assurances that the journal is indexed in search engines?
 * **When in doubt, ask Jason!**
+
+## Peer Review
+A part of the publishing process is the reciprocal anonymous peer review of papers in your sphere of expertise. The logic is, for each paper that you publish, there were likely three independent researchers who donated their time to read your manuscript and provide comments (constructive or not). Therefore, for every paper you submit, a fair trade would be to peer review three papers as a service to the field. HOWEVER, this note is to remind you that peer review is an unpaid volunteer task that is typically suited to experts in the field such as postdoctoral fellows and faculty. There is no expectation that graduate students make reviewing papers part of their roles and responsibilities during their graduate training. Jason will occasionally ask senior students if they have interest in peer review for papers that are directly related to their major studies and will complete the review alongside them as a training opportunity. If you receive a review request, please let Jason know so you can discuss the best approach for your time.

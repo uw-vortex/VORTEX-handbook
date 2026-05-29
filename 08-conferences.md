@@ -1,38 +1,36 @@
 # Conferences
 
-**NOTE: This list was compiled pre-COVID19 and many of the dates and locations of the conferences are out-of-date. This is a living document and information will be updated when it becomes available**
-
 ## Target Conferences
 
 * **Canadian Society for Exercise Physiology (CSEP)**
     * Scope: General exercise physiology with a strong cardiovascular presence
     * Size: 1000
-    * Next meeting: Nov 20-23, 2024, Montreal
-    * Abstract deadline: June 2024
+    * Next meeting: Oct, 2026, Edmonton, AB
+    * Abstract deadline: June
     * Known funding: Society travel grants available
 * **Ontario Exercise Physiology (OEP)**
     * Scope: Local graduate student meeting with emphasis on presentation skills and networking
     * Size: 100
-    * Next meeting: tbd
-    * Abstract deadline: May 2024
+    * Next meeting: Guelph June 2026
+    * Abstract deadline: May
     * Known funding: None
 * **American College of Sports Medicine (ACSM)**
     * Scope: Very large exercise conference with international exposure
     * Size: 5000
-    * Next meeting: Atlanta, May 27-30, 2025
-    * Abstract deadline: Dec, 2024
+    * Next meeting: Indianapolis, June 1-4, 2027
+    * Abstract deadline: Dec
     * Known funding: Society travel grants available
 * **North American Artery (NAA)**
     * Scope: Focused artery physiology conference
     * Size: 100
     * Next meeting: June 2025, Iowa
-    * Abstract deadline: March 2025
+    * Abstract deadline: March
     * Known funding: None
 * **ARTERY**
     * Scope: Focused artery physiology conference
     * Size: 100
-    * Next meeting: Cardiff, October 10-11, 2024
-    * Abstract deadline: June 2024
+    * Next meeting: September, Split, Croatia
+    * Abstract deadline: June
     * Known funding: Society travel grants available
 
 ## Policy on abstract submissions
