@@ -4,7 +4,7 @@ Full group lab meetings occur weekly, in person in BMH.
 
 FALL
 | Week | Date | Lab Topic | Lead | Grad Meeting Topic |
-| ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- |
 | 1 | Sept 7 | Welcome and Orientation | Jason | Mentorship |
 | 2 | Sept 14 | Individual paper reviews | All | --- |
 | 3 | Sept 21 | Individual methods reviews | Hayley | Coding 1 |
@@ -22,7 +22,7 @@ FALL
 
 WINTER
 | Week | Date | Lab Topic | Lead | Grad Meeting Topic |
-| ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- |
 | 1 | Jan 11 | tbd | Skye | Jason on leave |
 | 2 | Jan 18 | tbd | Maddy | Jason on leave |
 | 3 | Jan 25 | tbd | Logan | Jason on leave |
