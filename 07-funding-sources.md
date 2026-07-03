@@ -16,13 +16,12 @@ Most of our research funding in the lab is publicly-funded (government funding),
 * NSERC RTI Grant 2026
 
 ## Stipends
-Graduate stipends are set by the department at $20,000/year for MSc students and $24,055/year for PhD students. Supplementary funding from the lab may be available depending on available grants and current projects.
+Graduate stipends are set by the department at $21,500/year for MSc students and $29,145/year for PhD students. Supplementary funding from the lab may be available depending on available grants and current projects. It is extremely important that graduate TAs apply for teaching positions by the August 1st deadline. If you are unable to apply, you will forfeit your promise of a paid TA opportunity for the year.
 
 ## External awards
-It is expected that all students apply for relevant Canadian graduate student scholarships (i.e., CIHR, NSERC, or OGS). As they say, money begets money, and the success of lab trainees will only benefit other trainees (e.g., free up conference travel funds, research funds, lead to larger scholarships). It is important to note that success in acquiring external funding will not directly be added to your stipend - please discuss with Jason how your type of external funding will impact your bottom line. Academic policies and procedures are constantly changing and the Graduate Coordinator will have the most up to date information on how money works during graduate training.
+It is expected that all students apply for relevant Canadian graduate student scholarships (i.e., CIHR, NSERC, or OGS). As they say, money begets money, and the success of lab trainees will only benefit other trainees (e.g., free up conference travel funds, research funds, lead to larger scholarships). With new changes to how Teaching Assistantships are guarunteed by the department, acquiring external funding usually results in a substantial boost of your funding package. Specific dollar amounts are different for every student, so please contact Jason or the graduate administrator for more information in the event of successful funding.
 
-<!--
-For example, this is a rough breakdown for a PhD who secures $21,000 of NSERC funding with an original stipend of $27,000 (details may vary year-by-year and by specific provisions in [UW policies](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/current-students/internal-waterloo-awards/presidents-graduate-scholarship)):
+<!-- For example, this is a rough breakdown for a MSc who secures $21,000 of NSERC funding with an original stipend of $29,145 (details may vary year-by-year and by specific provisions in [UW policies](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/current-students/internal-waterloo-awards/presidents-graduate-scholarship)):
 
 | Contribution | Unfunded | Funded |
 | ---- | ---- | ---- |
@@ -32,7 +31,6 @@ For example, this is a rough breakdown for a PhD who secures $21,000 of NSERC fu
 | NSERC | $0 | $21,000 |
 | PGS | $0 | $10,000 |
 | TOTAL | $27,000 | $31,000 |
-
 -->
 
 **The ability to secure funding will not impact internal lab opportunities, available conference support, or result in preferential treatment.**
