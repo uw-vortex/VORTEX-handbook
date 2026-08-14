@@ -22,7 +22,7 @@ FALL
 
 WINTER
 | Week | Date | Lab Topic | Lead | Grad Meeting Topic
-| ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- |
 | 1 | Jan 11 | tbd | Skye | Jason on leave |
 | 2 | Jan 18 | tbd | Maddy | Jason on leave |
 | 3 | Jan 25 | tbd | Logan | Jason on leave |
