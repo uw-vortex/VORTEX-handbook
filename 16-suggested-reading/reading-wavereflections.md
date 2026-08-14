@@ -1,4 +1,5 @@
 # Arterial Wave Reflection Essentials
+The following are suggested starting points to review material related to wave reflection and characteristic impedance.
 
 * [Textbook] McDonald's Blood Flow: Chapter 9 Wave Reflections (borrow from Jason)
 * [Textbook] Snapshots of Hemodynamics (borrow from Jason)
@@ -7,3 +8,4 @@
 * Westerhof et al. 1972. Forward and backward waves in the arterial system. Cardiovascular Research 6(6):648-656).
 * Murgo et al. 1981. Manipulation of ascending aortic pressure and flow wave reflections with the Valsalva maneuver: relationship to input impedence. Circulation 63(1):122-132.
 * Nichols & Edwards 2001. Arterial elastance and wave reflection augmentation of systolic blood pressure: Deleterious effects and implications for therapy. J Cardiovasc Pharm Ther 6(1):5-21.
+* Wilkinson et al. 2002. Heart rate dependency of pulse pressure amplification and arterial stiffness. Am J Hypertens 15(1):24-30.

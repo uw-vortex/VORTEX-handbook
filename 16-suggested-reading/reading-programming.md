@@ -1,7 +1,7 @@
 # Coding and Programming Essentials
 
 ## R Resources
-We will be using Studio as the primary software for data statistics and figures. The following are a few excellent resources to get you started on your R journey.
+We will be using RStudio (Posit) as the primary software for data statistics and figures. The following are a few excellent resources to get you started on your R journey.
 
 * Beginner tutorial on R and R programming: [Swirl](http://swirlstats.com)
 * Cheat sheet PDFs for Tidyverse R packages: [Cheat sheets](https://rstudio.com/resources/cheatsheets/)

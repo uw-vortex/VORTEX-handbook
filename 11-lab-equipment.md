@@ -11,12 +11,15 @@ This resource provides an overview of the equipment in the lab, directions to fi
 
 **Vivid iq**: This clinical ultrasound is a small portable unit that is the workhorse of the lab. We have linear and sector probes for vascular and cardiac imaging. Extremely versatile, the Vivid is mostly used to measure arterial and venous diameters and blood velocities using B-mode, Doppler, and Duplex imaging.
 
-**S70N**: This clinical ultrasound is a larger non-portable unit that has linear and sector probes for vascular and cardiac imaging.
+**Vivid S70N**: This clinical ultrasound is a larger non-portable unit that has linear and sector probes for vascular and cardiac imaging.
 
 **ProbeFix Dynamic**: This custom probe holder from Usono is designed to work with a variety of ultrasound probes during exercise. We are excited to start working with this equipment and will be happy to share the accuracy and feasibility of the device in the next few years.
 
 ## Pulse Wave Analysis
 **NIHem Workstation**: This workstation from Cardiovascular Engineering Inc. is dedicated to comprehensive pulse wave acquisition and analysis. The unit includes two fingertip tonometers, central data acquisition unit, brachial blood pressure cuff with integrated  microphone, as well as an analysis Tablet on a portable stand. This unit is capable of measuring carotid-femoral pulse wave velocity (cfPWV), pressure wave decomposition (Pf and Pb), and characteristic impedance (Zc).
+
+## Blood Pressure
+**Finapres NOVA**: Fingertip plethysmography is a non-invasive way to record a continuous blood pressure waveform in humans. A small infrared probe is affixed to a finger, and a rapid inflator attempts to constrict the finger to maintain a fixed blood volume in the finger, pulsing with a cyclic cardiac cycle. Ultimately, this gives us a continuous waveform of finger blood pressure (the pressure in the cuff to maintain blood volume), which we can translate into brachial blood pressure calibrated to a discrete arm blood pressure. This technology is incredibly useful to monitor dynamic changes in blood pressure during physiological manipulations (e.g., exercise, orthostatic changes).
 
 ## Software
 **SpecTat**: We use an in-house vascular speckle-tracking program for arterial wall kinematic analyses, and was developed in MATLAB by Jimmy Tat, MD, in 2013. In brief, this program identifies up to two rectangular regions of interest and tracks pixel positions over time to measure 2D wall displacement (axial and radial directions). Speckle-tracking is one of the only methods to measure carotid artery longitudinal wall motion and is a cornerstone of our post-processing tools in the lab.

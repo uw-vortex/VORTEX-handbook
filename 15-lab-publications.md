@@ -34,3 +34,9 @@
 16. Zaheer A, Peckett K, Pereira TJ, Acker S, Au JS. 2025 The consequences of high-flexion postures on arterial wave reflections. Accepted to J Human Hypertens on October 7, 2025.
 
 17. Ling SHT, Cohen JN, Pereira TJ, Au JS. 2025. Lower limb hemodynamics during lower body negative pressure and the impact of pre-conditioning exercise. Accepted to Appl Physiol Nutr Metab on October 8, 2025.
+
+18. Cohen JN, Zafiris E, Jasiak JN, Ling SHT, Decyk O, Nahas H, Yu ACH, Au JS. The influence of aging on graded peripheral venous return and complex flow features through human veins. Accepted to Geroscience on June 18, 2026.
+
+19. Ling SHT, Zafiris E, Cohen JN, Au JS. Complex flow in the proximal internal carotid artery challenges Doppler flow assumptions. J Appl Physiol 2026, 141(1):205-212.
+
+20. Zafiris E, Cohen JN, Pereira TJ, Au JS. Lower limb blood flow responses during higher- and lower-load bilateral leg press exercise. Accepted to Exp Physiol on July 27, 2026.

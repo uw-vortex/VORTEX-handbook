@@ -5,12 +5,12 @@ Full group lab meetings occur weekly, in person in BMH.
 FALL
 | Week | Date | Lab Topic | Lead | Grad Meeting Topic
 | ---- | ---- | ---- | ---- |
-| 1 | Sept 7 | Welcome and Orientation | Jason | Mentorship |
-| 2 | Sept 14 | Individual paper reviews | All | --- |
-| 3 | Sept 21 | Individual methods reviews | Hayley | Coding 1 |
-| 5 | Sept 28 | OpenScienceFramework tutorial | Jason | --- |
-| 6 | Oct 5 | Undergraduate Proposal Blitz | Undergrads | Coding 2 |
-| 7 | Oct 12 | Explaining ethics and recruitment procedures | Jason | --- |
+| 1 | Sept 7 | Welcome and Orientation | Jason | --- |
+| 2 | Sept 14 | Individual paper reviews | All | Mentorship |
+| 3 | Sept 21 | Individual methods reviews | All | --- |
+| 5 | Sept 28 | OpenScienceFramework tutorial | Jason | Coding 1 |
+| 6 | Oct 5 | Undergraduate Proposal Blitz | Undergrads | --- |
+| 7 | Oct 12 | Explaining ethics and recruitment procedures | Jason | Coding 2 |
 | 8 | Oct 19 | READING WEEK: No meeting | --- | --- |
 | 9 | Oct 26 | Joint lab meeting with Williams Lab | Jason & Jenny | Williams lab debrief |
 | 10 | Nov 2 | Data presentation: Skye | Jess | --- |

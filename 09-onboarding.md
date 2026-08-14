@@ -77,7 +77,7 @@ At the start of every studentship (undergrad and grad), students will meet one-o
 * Time off / vacations;
 * Strategies to stay 'on time' for program milestones (proposal, committee meetings, defences);
 * Teaching and volunteer interests;
-* Career plans and goals;
+* Career plans and goals (CIHR Individual Development Plans);
 * Conference plan and funding expectations;
 * Publishing and authorship expectations;
 * Expectations to apply for external funding; and,

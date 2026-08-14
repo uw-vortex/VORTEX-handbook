@@ -1,4 +1,5 @@
 # Longitudinal wall motion essentials
+The following are suggested starting points to review material related to longitudinal wall motion in humans.
 
 * Cinthio et al. 2006. Longitudinal movements and resulting shear strain of the arterial wall. Am J Physiol Heart Circ Physiol 291:H394-H402
 * Rizi et al. 2020. Carotid wall longitudinal motion in ultrasound imaging: An expert consensus review. Ultrasound Med Biol 46(10):2605-2624.

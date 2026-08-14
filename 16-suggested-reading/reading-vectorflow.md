@@ -1,4 +1,6 @@
 # Vector flow imaging essentials
+The following are suggested starting points to review material related to methods in vector flow imaging and outcome development.
+
 
 * Jensen et al. 2016. Ultrasound vector flow imaging - Part I: Sequential systems. IEEE T-UFFC 63:1704-1721
 * Jensen et al. 2016. Ultrasound vector flow imaging - Part II: Parallel systems. IEEE T-UFFC 63:1722:1732
