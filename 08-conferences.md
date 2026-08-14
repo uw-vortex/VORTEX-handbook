@@ -1,5 +1,7 @@
 # Conferences
 
+**NOTE: This is a living document and information will be updated when it becomes available**
+
 ## Target Conferences
 
 * **Canadian Society for Exercise Physiology (CSEP)**
@@ -18,7 +20,7 @@
     * Scope: Very large exercise conference with international exposure
     * Size: 5000
     * Next meeting: Indianapolis, June 1-4, 2027
-    * Abstract deadline: Dec
+    * Abstract deadline: Dec, 2026
     * Known funding: Society travel grants available
 * **North American Artery (NAA)**
     * Scope: Focused artery physiology conference
@@ -32,6 +34,12 @@
     * Next meeting: September, Split, Croatia
     * Abstract deadline: June
     * Known funding: Society travel grants available
+* **American Physiological Society (APS)**
+    * Scope: Physiology
+    * Size: 3000+
+    * Next meetings: Minneapolis 2026, Denver 20207, Pittsburgh 2028, Louisville 2029, Tampa 2030, Long Beach 2031
+    Abstract deadline: Decembers
+    Known funding: APS Travel Grants available
 
 ## Policy on abstract submissions
 Abstracts with partial datasets will not permitted, unless otherwise discussed. The main reason for this is that we don't want to get into a situation where the partial and final full datasets do not yield the same results. For this reason, I encourage students to consider conference deadlines **well in advance** to realistically plan what data might be available to submit. The exception to this is the Ontario Exercise Physiology (OEP) conference, which promotes study proposals and literature reviews for graduate and undergraduate presentation practice.

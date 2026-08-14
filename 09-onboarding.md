@@ -42,6 +42,9 @@ Jason will submit requests for new trainees to get set up with the drive, which 
 3. [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html) for simple statistical sample size calculations
 4. Bookmark the [Superpower Shiny App](https://arcstats.io/shiny/anova-power/) for more complex simulations for sample size calculations.
 
+## Suggested starting points for research
+A guide to starting a research study has been included in the Network Drive under V:\1. Admin Documents\1. Getting Started in the Lab. Please review this document early in the term to familiarize yourself with the steps of a research study, and best practices for conducting human research in the lab. When in doubt, please seek out a senior lab members for advice, or tips and tricks for how to keep yourself organized during your data collection.
+
 ## Suggested starting points to learn to code
 It is expected that during your time in the VORTEX Lab, you will have to learn some coding basics to push forward your research and run your statistics. Expectations vary depending on the level of the trainee. For instance, at minimum:
 * Undergraduate students will be expected to be able to run standard code already written and manipulate some variables to explore data;
