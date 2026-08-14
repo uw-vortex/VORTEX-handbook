@@ -4,7 +4,7 @@ Full group lab meetings occur weekly, in person in BMH.
 
 FALL
 | Week | Date | Lab Topic | Lead | Grad Meeting Topic
-| ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- |
 | 1 | Sept 7 | Welcome and Orientation | Jason | --- |
 | 2 | Sept 14 | Individual paper reviews | All | Mentorship |
 | 3 | Sept 21 | Individual methods reviews | All | --- |

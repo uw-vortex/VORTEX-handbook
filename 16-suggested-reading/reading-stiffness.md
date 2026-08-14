@@ -8,3 +8,4 @@ The following are suggested starting points to review material related to arteri
 * Mitchell. 2014. Arterial stiffness and hypertension: Chicken or Egg? Hypertension 64(2):210-214.
 * Laurent et al. 2019. Concept of extremes in vascular aging: From early vascular aging to supernormal vascular aging. Hypertension 74(2):218-228.
 * Nardone et al. 2018. Evidence for pressure-independent sympathetic modulation of central pulse wave velocity. J Am Heart Assoc 7(3):e007971.
+* Stewart et al. 2006. Acute reduction of blood pressure by nitroglycerin does not normalize large artery stiffness in essential hypertension. Hypertension 48(3):404-410.
