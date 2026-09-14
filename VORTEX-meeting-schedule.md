@@ -7,9 +7,9 @@ FALL
 | ---- | ---- | ---- | ---- | ---- |
 | 1 | Sept 7 | Welcome and Orientation | Jason | --- |
 | 2 | Sept 14 | Individual paper reviews | All | Mentorship |
-| 3 | Sept 21 | Individual methods reviews | All | --- |
-| 5 | Sept 28 | OpenScienceFramework tutorial | Jason | Coding 1 |
-| 6 | Oct 5 | Undergraduate Proposal Blitz | Undergrads | --- |
+| 3 | Sept 21 | NO LAB MEETING: Away at ARTERY26 | --- | --- |
+| 5 | Sept 28 | Individual methods reviews | Undergrads | Coding 1 |
+| 6 | Oct 5 | OpenScienceFramework tutorial | Jason | --- |
 | 7 | Oct 12 | Explaining ethics and recruitment procedures | Jason | Coding 2 |
 | 8 | Oct 19 | READING WEEK: No meeting | --- | --- |
 | 9 | Oct 26 | Joint lab meeting with Williams Lab | Jason & Jenny | Williams lab debrief |
