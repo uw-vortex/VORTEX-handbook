@@ -12,12 +12,12 @@ FALL
 | 6 | Oct 5 | OpenScienceFramework tutorial | Jason | --- |
 | 7 | Oct 12 | READING WEEK: No meeting | --- | --- |
 | 8 | Oct 19 | Explaining ethics and recruitment procedures + Ramsook study pitches | Jason | Coding 2 |
-| 9 | Oct 26 | Joint lab meeting with Williams Lab | Jason & Jenny | Williams lab debrief |
-| 10 | Nov 2 | Data presentation: Skye | Jess | --- |
-| 11 | Nov 9 | Project Updates | --- | Review ultrasound storage |
-| 11 | Nov 16 | Jess Practice Defense | Jess | --- |
-| 12 | Nov 23 | Project Updates | --- | R graphing templates |
-| 13 | Nov 30 | Term Presentations | UGs | --- |
+| 9 | Oct 26 | Updates | All | --- |
+| 10 | Nov 2 | Updates | All | Review ultrasound storage |
+| 11 | Nov 9 | Updates | All | --- |
+| 11 | Nov 16 | Joint lab meeting with Williams Lab | Jenny & Jason | Joint lab meeting |
+| 12 | Nov 23 | Project Updates | --- |  |
+| 13 | Nov 30 | Term Presentations | UGs | R graphing templates |
 | 14 | Dec 7 | Term Presentations | UGs | Term review |
 
 WINTER
