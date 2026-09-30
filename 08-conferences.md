@@ -25,7 +25,7 @@
 * **North American Artery (NAA)**
     * Scope: Focused artery physiology conference
     * Size: 100
-    * Next meeting: June 2025, Iowa
+    * Next meeting: June 25-26, 2027, University of Wisconsin-Madison
     * Abstract deadline: March
     * Known funding: None
 * **ARTERY**

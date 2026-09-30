@@ -10,8 +10,8 @@ FALL
 | 3 | Sept 21 | NO LAB MEETING: Away at ARTERY26 | --- | --- |
 | 5 | Sept 28 | Individual methods reviews | Undergrads | Coding 1 |
 | 6 | Oct 5 | OpenScienceFramework tutorial | Jason | --- |
-| 7 | Oct 12 | Explaining ethics and recruitment procedures | Jason | Coding 2 |
-| 8 | Oct 19 | READING WEEK: No meeting | --- | --- |
+| 7 | Oct 12 | READING WEEK: No meeting | --- | --- |
+| 8 | Oct 19 | Explaining ethics and recruitment procedures + Ramsook study pitches | Jason | Coding 2 |
 | 9 | Oct 26 | Joint lab meeting with Williams Lab | Jason & Jenny | Williams lab debrief |
 | 10 | Nov 2 | Data presentation: Skye | Jess | --- |
 | 11 | Nov 9 | Project Updates | --- | Review ultrasound storage |
